@@ -166,5 +166,5 @@ case $1 in
         gfwlistplusconf
         ;;
     *)
-        exit 1
+        domainlist $1
 esac
