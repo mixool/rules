@@ -5,4 +5,4 @@
 黑名单+屏蔽广告: https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/gfwlistplus.conf  
   
 白名单:https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/whitelist.conf  
-白名单+屏蔽广告:https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/whitelist.conf  
+白名单+屏蔽广告:https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/whitelistplus.conf  
