@@ -1,0 +1,30 @@
+name: update
+
+on:
+  schedule:
+    - cron: "0 15 * * *"
+  push:
+    branches:
+      - main
+      
+jobs:
+  update:
+    if: github.repository == 'mixool/shadowrocket-rules'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout codebase
+        uses: actions/checkout@v2
+
+      - name: update
+        run: |
+            bash generate.sh gfwlistconf >./gfwlist.conf
+            bash generate.sh gfwlistplusconf >./gfwlistplus.conf
+            bash generate.sh whitelistconf >./whitelist.conf
+            bash generate.sh whitelistplusconf >./whitelistplus.conf
+
+      - name: push
+        run: |
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git commit -am "update"
+            git push -v --progress
