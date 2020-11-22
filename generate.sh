@@ -8,7 +8,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin; export 
 trap 'rm -f "$TMPFILE"' EXIT; TMPFILE=$(mktemp) || exit 1
 
 function domainlist(){
-    # show v2fly/domain-list-community domain
+    # show v2fly/domain-list-community domains
     wget -qO- "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/$1" | grep -oE "^[a-zA-Z0-9./-].*" | sed -e "s/#.*//g" -e "s/@.*//g" >$TMPFILE
     includelistcn=$(cat $TMPFILE | grep -oE "include:.*" | cut -f2 -d: | tr "\n" " ") && sed -i -e "s/^include:.*//g" -e "s/^regexp:.*//g" -e "s/^full://g" -e "s/#.*//g" -e "s/@.*//g" $TMPFILE
     while [[ "$includelistcn" != "" ]]; do
@@ -32,10 +32,15 @@ ipv6 = false
 update-url = https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/allrocket.conf
 
 [Rule]
+# Reject
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/reject.list,Reject
+# DIRECT
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/direct.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/apple-cn.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/google-cn.list,DIRECT
+# PROXY
+RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/gfw.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/greatfire.list,PROXY
 
 # Others
 IP-CIDR,91.108.4.0/22,PROXY,no-resolve
