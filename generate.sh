@@ -8,7 +8,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin; export 
 trap 'rm -f "$TMPFILE"' EXIT; TMPFILE=$(mktemp) || exit 1
 
 function domainlist(){
-    # v2fly/domain-list-community domain-list
+    # show v2fly/domain-list-community domains
     wget -qO- "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/$1" | grep -oE "^[a-zA-Z0-9./-].*" | sed -e "s/#.*//g" -e "s/@.*//g" >$TMPFILE
     includelistcn=$(cat $TMPFILE | grep -oE "include:.*" | cut -f2 -d: | tr "\n" " ") && sed -i -e "s/^include:.*//g" -e "s/^regexp:.*//g" -e "s/^full://g" -e "s/#.*//g" -e "s/@.*//g" $TMPFILE
     while [[ "$includelistcn" != "" ]]; do
@@ -23,6 +23,7 @@ function domainlist(){
 function allrocket(){
     cat <<EOF >$TMPFILE
 # Shadowrocket: $(date)
+# Site: https://github.com/mixool/shadowrocket-rules
 [General]
 bypass-system = true
 skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, captive.apple.com
@@ -43,21 +44,11 @@ $(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/relea
 # direct-list google 
 $(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "s/$/&,DIRECT/" | sed "s/DOMAIN-SUFFIX,regexp/URL-REGEX/")
 
-# IP-CIDR
+# IP-CIDR LAN
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
 IP-CIDR,127.0.0.0/8,DIRECT
-IP-CIDR,91.108.4.0/22,PROXY,no-resolve
-IP-CIDR,91.108.8.0/22,PROXY,no-resolve
-IP-CIDR,91.108.12.0/22,PROXY,no-resolve
-IP-CIDR,91.108.16.0/22,PROXY,no-resolve
-IP-CIDR,91.108.56.0/22,PROXY,no-resolve
-IP-CIDR,109.239.140.0/24,PROXY,PROXY
-IP-CIDR,149.154.160.0/20,PROXY,no-resolve
-IP-CIDR,2001:b28:f23d::/48,PROXY,no-resolve
-IP-CIDR,2001:b28:f23f::/48,PROXY,no-resolve
-IP-CIDR,2001:67c:4e8::/48,PROXY,no-resolve
 
 # FINAL
 GEOIP,CN,DIRECT
