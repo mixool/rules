@@ -8,7 +8,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin; export 
 trap 'rm -f "$TMPFILE"' EXIT; TMPFILE=$(mktemp) || exit 1
 
 function domainlist(){
-    # 从v2fly/domain-list-community提取指定类别域名列表
+    # v2fly/domain-list-community domain-list
     wget -qO- "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/$1" | grep -oE "^[a-zA-Z0-9./-].*" | sed -e "s/#.*//g" -e "s/@.*//g" >$TMPFILE
     includelistcn=$(cat $TMPFILE | grep -oE "include:.*" | cut -f2 -d: | tr "\n" " ") && sed -i -e "s/^include:.*//g" -e "s/^regexp:.*//g" -e "s/^full://g" -e "s/#.*//g" -e "s/@.*//g" $TMPFILE
     while [[ "$includelistcn" != "" ]]; do
@@ -21,7 +21,6 @@ function domainlist(){
 }
 
 function allrocket(){
-    # 屏蔽广告,大陆可访问直连(包含Apple和Google可在大陆访问的域名),不可访问走代理,未匹配走代理
     cat <<EOF >$TMPFILE
 # Shadowrocket: $(date)
 [General]
@@ -43,10 +42,6 @@ $(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/relea
 
 # direct-list google 
 $(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "s/$/&,DIRECT/" | sed "s/DOMAIN-SUFFIX,regexp/URL-REGEX/")
-
-# proxy-list 
-$(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt  | sed "s/^/DOMAIN-SUFFIX,&/" | sed 's/$/&,PROXY/' | sed "s/DOMAIN-SUFFIX,regexp/URL-REGEX/")
-$(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt  | sed "s/^/DOMAIN-SUFFIX,&/" | sed 's/$/&,PROXY/' | sed "s/DOMAIN-SUFFIX,regexp/URL-REGEX/")
 
 # IP-CIDR
 IP-CIDR,192.168.0.0/16,DIRECT
