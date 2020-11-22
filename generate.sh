@@ -36,7 +36,7 @@ update-url = https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/al
 $(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed 's/$/&,Reject/' | sed "s/DOMAIN-SUFFIX,regexp/URL-REGEX/")
 
 # direct-list cn
-$(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "s/$/&,DIRECT/" | sed "s/DOMAIN-SUFFIX,regexp:/URL-REGEX,/")
+$(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "s/$/&,DIRECT/" | sed "s/DOMAIN-SUFFIX,regexp:^/URL-REGEX,https?:\/\//")
 
 # others
 IP-CIDR,91.108.4.0/22,PROXY,no-resolve
