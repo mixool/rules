@@ -2,8 +2,12 @@ name: update
 
 on:
   schedule:
-    - cron: "0 */8 * * *"
-      
+    - cron: "10 22 * * *"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "**/README.md"
 jobs:
   update:
     if: github.repository == 'mixool/shadowrocket-rules'
@@ -14,10 +18,7 @@ jobs:
 
       - name: update
         run: |
-            bash generate.sh gfwlistconf >./gfwlist.conf
-            bash generate.sh gfwlistplusconf >./gfwlistplus.conf
-            bash generate.sh whitelistconf >./whitelist.conf
-            bash generate.sh whitelistplusconf >./whitelistplus.conf
+            bash generate.sh allrocket >./allrocket.conf
 
       - name: push
         run: |
