@@ -6,8 +6,8 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - "**/README.md"
+    paths:
+      - "generate.sh"
 jobs:
   update:
     if: github.repository == 'mixool/shadowrocket-rules'
