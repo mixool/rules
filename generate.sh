@@ -17,7 +17,7 @@ function domainlist(){
         done
         includelistcn=$(cat $TMPFILE | grep -oE "include:.*" | cut -f2 -d: | tr "\n" " ") && sed -i -e "s/^include:.*//g" -e "s/^regexp:.*//g" -e "s/^full://g" -e "s/#.*//g" -e "s/@.*//g" $TMPFILE
     done
-    cat $TMPFILE | sort -u | sed "s/[[:space:]]//g" |sed "/^$/d"
+    cat $TMPFILE | sort -u | sed "s/[[:space:]]//g" | sed "/^$/d"
 }
 
 function allrocket(){
@@ -32,13 +32,12 @@ ipv6 = false
 update-url = https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/allrocket.conf
 
 [Rule]
-# reject-list category-ads-all
-$(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed 's/$/&,Reject/' | sed "s/DOMAIN-SUFFIX,regexp/URL-REGEX/")
+RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/reject.list,Reject
+RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/direct.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/apple-cn.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/google-cn.list,DIRECT
 
-# direct-list cn
-$(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "s/$/&,DIRECT/" | sed "s/DOMAIN-SUFFIX,regexp:^/URL-REGEX,https?:\/\//")
-
-# others
+# Others
 IP-CIDR,91.108.4.0/22,PROXY,no-resolve
 IP-CIDR,91.108.8.0/22,PROXY,no-resolve
 IP-CIDR,91.108.12.0/22,PROXY,no-resolve
