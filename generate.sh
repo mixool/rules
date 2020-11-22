@@ -32,17 +32,12 @@ ipv6 = false
 update-url = https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/allrocket.conf
 
 [Rule]
-# Reject
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/reject.list,Reject
-# DIRECT
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/direct.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/apple-cn.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/google-cn.list,DIRECT
-# PROXY
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/gfw.list,PROXY
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/greatfire.list,PROXY
-
-# Others
 IP-CIDR,91.108.4.0/22,PROXY,no-resolve
 IP-CIDR,91.108.8.0/22,PROXY,no-resolve
 IP-CIDR,91.108.12.0/22,PROXY,no-resolve
