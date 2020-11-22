@@ -38,12 +38,6 @@ $(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/relea
 # direct-list cn
 $(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "s/$/&,DIRECT/" | sed "s/DOMAIN-SUFFIX,regexp/URL-REGEX/")
 
-# direct-list apple 
-$(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "s/$/&,DIRECT/" | sed "s/DOMAIN-SUFFIX,regexp/URL-REGEX/")
-
-# direct-list google 
-$(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "s/$/&,DIRECT/" | sed "s/DOMAIN-SUFFIX,regexp/URL-REGEX/")
-
 # IP-CIDR LAN
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
