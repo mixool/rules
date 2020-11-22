@@ -32,7 +32,7 @@ ipv6 = false
 update-url = https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/allrocket.conf
 
 [Rule]
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/reject.list,Reject
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/reject.list,REJECT-200
 DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/direct.list,DIRECT
 DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/apple-cn.list,DIRECT
 DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/google-cn.list,DIRECT
