@@ -8,7 +8,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin; export 
 trap 'rm -f "$TMPFILE"' EXIT; TMPFILE=$(mktemp) || exit 1
 
 function domainlist(){
-    # show v2fly/domain-list-community domains
+    # show v2fly/domain-list-community domain
     wget -qO- "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/$1" | grep -oE "^[a-zA-Z0-9./-].*" | sed -e "s/#.*//g" -e "s/@.*//g" >$TMPFILE
     includelistcn=$(cat $TMPFILE | grep -oE "include:.*" | cut -f2 -d: | tr "\n" " ") && sed -i -e "s/^include:.*//g" -e "s/^regexp:.*//g" -e "s/^full://g" -e "s/#.*//g" -e "s/@.*//g" $TMPFILE
     while [[ "$includelistcn" != "" ]]; do
