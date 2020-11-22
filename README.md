@@ -1,3 +1,1 @@
-> daily automatic update shadowrocket config file  
-  
-CopyThisLink: https://git.io/allrocket
+* daily automatic update shadowrocket config file: **https://git.io/allrocket**
