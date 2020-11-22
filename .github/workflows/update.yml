@@ -18,13 +18,13 @@ jobs:
 
       - name: update
         run: |
-            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/reject.list
-            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/direct.list
-            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt    | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/apple-cn.list
-            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt   | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/google-cn.list
-            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt         | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/gfw.list
-            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt   | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/greatfire.list
-            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt  | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/proxy.list
+            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt | sed "s/^/.&/" | sed "/.regexp:.*/d" | sed "/^$/d" >domainset/reject.list
+            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt | sed "s/^/.&/" | sed "/.regexp:.*/d" | sed "/^$/d" >domainset/direct.list
+            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt    | sed "s/^/.&/" | sed "/.regexp:.*/d" | sed "/^$/d" >domainset/apple-cn.list
+            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt   | sed "s/^/.&/" | sed "/.regexp:.*/d" | sed "/^$/d" >domainset/google-cn.list
+            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt         | sed "s/^/.&/" | sed "/.regexp:.*/d" | sed "/^$/d" >domainset/gfw.list
+            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt   | sed "s/^/.&/" | sed "/.regexp:.*/d" | sed "/^$/d" >domainset/greatfire.list
+            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt  | sed "s/^/.&/" | sed "/.regexp:.*/d" | sed "/^$/d" >domainset/proxy.list
             bash generate.sh allrocket >allrocket.conf
 
       - name: push

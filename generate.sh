@@ -32,13 +32,13 @@ ipv6 = false
 update-url = https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/allrocket.conf
 
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/reject.list,Reject
-RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/direct.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/apple-cn.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/google-cn.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/gfw.list,PROXY
-RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/greatfire.list,PROXY
-RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/proxy.list,PROXY
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/reject.list,Reject
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/direct.list,DIRECT
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/apple-cn.list,DIRECT
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/google-cn.list,DIRECT
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/gfw.list,PROXY
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/greatfire.list,PROXY
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/proxy.list,PROXY
 IP-CIDR,91.108.4.0/22,PROXY,no-resolve
 IP-CIDR,91.108.8.0/22,PROXY,no-resolve
 IP-CIDR,91.108.12.0/22,PROXY,no-resolve
