@@ -6,8 +6,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "**/generate.sh"
+    paths-ignore:
+      - "**/README.md"
 jobs:
   update:
     if: github.repository == 'mixool/shadowrocket-rules'
@@ -22,6 +22,7 @@ jobs:
             wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >./ruleset/direct.list
             wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt    | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >./ruleset/apple-cn.list
             wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt   | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >./ruleset/google-cn.list
+            bash generate.sh allrocket >./allrocket.conf
 
       - name: push
         run: |
