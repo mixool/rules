@@ -50,8 +50,7 @@ FINAL,PROXY
 localhost = 127.0.0.1
 
 [URL Rewrite]
-^http://(www.)?g.cn https://www.google.com 302
-^http://(www.)?google.cn https://www.google.com 302
+^http://(www.)?(g|google).cn https://www.google.com 302
 EOF
 
 cat $TMPFILE
