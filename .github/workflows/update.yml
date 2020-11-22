@@ -24,6 +24,7 @@ jobs:
             wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt   | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/google-cn.list
             wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt         | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/gfw.list
             wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt   | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/greatfire.list
+            wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt  | sed "s/^/DOMAIN-SUFFIX,&/" | sed "/DOMAIN-SUFFIX,regexp:.*/d" | sed "/^$/d" >ruleset/proxy.list
             bash generate.sh allrocket >allrocket.conf
 
       - name: push

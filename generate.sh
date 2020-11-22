@@ -38,6 +38,7 @@ RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/rulese
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/google-cn.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/gfw.list,PROXY
 RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/greatfire.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/ruleset/proxy.list,PROXY
 IP-CIDR,91.108.4.0/22,PROXY,no-resolve
 IP-CIDR,91.108.8.0/22,PROXY,no-resolve
 IP-CIDR,91.108.12.0/22,PROXY,no-resolve
