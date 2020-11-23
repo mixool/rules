@@ -1,8 +1,8 @@
 [AutoProxy]
-! Last Modified: 2020-11-23 15:27:38.1606145258 +0000 UTC
+! Last Modified: 2020-11-23 15:31:41.1606145501 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
-! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/allcnauto.txt
+! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
 ||0-100.com
 ||0-6.com
 ||0-gold.net
