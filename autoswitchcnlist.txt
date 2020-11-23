@@ -1,8 +1,8 @@
 [AutoProxy]
-! Last Modified: 2020-11-23 15:16:45.1606144605 +0000 UTC
+! Last Modified: 2020-11-23 15:27:38.1606145258 +0000 UTC
 ! Expires: 24h
-! HomePage: https://github.com/mixool/shadowrocket-rules
-! GitHub URL: https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/allcnauto.txt
+! HomePage: https://github.com/mixool/rules
+! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/allcnauto.txt
 ||0-100.com
 ||0-6.com
 ||0-gold.net
