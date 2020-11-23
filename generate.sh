@@ -62,7 +62,7 @@ function cnlist_autoswitch(){
 ! Last Modified: $(date +%Y-%m-%d\ %T.%s) $(date +%z) UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
-! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/allcnauto.txt
+! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
 $(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt | sed "s/^/||&/" | sed "/||regexp:.*/d" | sed "/^$/d")
 EOF
 
