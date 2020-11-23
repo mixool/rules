@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin; export PATH
 ########
-# usage: bash <(curl -s https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/generate.sh) category-porn
+# usage: bash <(curl -s https://raw.githubusercontent.com/mixool/rules/main/generate.sh) category-porn
 #######
 
 # tempfile & rm it when exit
@@ -29,16 +29,16 @@ skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, capt
 bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
 dns-server = system
 ipv6 = false
-update-url = https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/allrocket.conf
+update-url = https://raw.githubusercontent.com/mixool/rules/main/allrocket.conf
 
 [Rule]
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/reject.list,REJECT
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/direct.list,DIRECT
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/apple-cn.list,DIRECT
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/google-cn.list,DIRECT
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/gfw.list,PROXY
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/greatfire.list,PROXY
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/domainset/proxy.list,PROXY
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/reject.list,REJECT
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/direct.list,DIRECT
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/apple-cn.list,DIRECT
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/google-cn.list,DIRECT
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/gfw.list,PROXY
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/greatfire.list,PROXY
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/proxy.list,PROXY
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
@@ -61,8 +61,8 @@ function cnlist_autoswitch(){
 [AutoProxy]
 ! Last Modified: $(date +%Y-%m-%d\ %T.%s) $(date +%z) UTC
 ! Expires: 24h
-! HomePage: https://github.com/mixool/shadowrocket-rules
-! GitHub URL: https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/allcnauto.txt
+! HomePage: https://github.com/mixool/rules
+! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/allcnauto.txt
 $(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt | sed "s/^/||&/" | sed "/||regexp:.*/d" | sed "/^$/d")
 EOF
 

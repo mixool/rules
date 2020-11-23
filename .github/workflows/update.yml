@@ -10,7 +10,7 @@ on:
       - "generate.sh"
 jobs:
   update:
-    if: github.repository == 'mixool/shadowrocket-rules'
+    if: github.repository == 'mixool/rules'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout codebase
