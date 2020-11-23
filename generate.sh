@@ -22,7 +22,7 @@ function domainlist(){
 
 function allrocket(){
     cat <<EOF >$TMPFILE
-# Shadowrocket: $(date +%Y-%m-%d\ %H:%M:%S)
+# Shadowrocket: $(date +%Y-%m-%d\ %T)
 [General]
 bypass-system = true
 skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, captive.apple.com
@@ -56,9 +56,25 @@ EOF
 cat $TMPFILE
 }
 
+function cnlist_autoswitch(){
+    cat <<EOF >$TMPFILE
+[AutoProxy]
+! Last Modified: $(date +%Y-%m-%d\ %T.%s) $(date +%z) UTC
+! Expires: 24h
+! HomePage: https://github.com/mixool/shadowrocket-rules
+! GitHub URL: https://raw.githubusercontent.com/mixool/shadowrocket-rules/main/allcnauto.txt
+$(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt | sed "s/^/||&/" | sed "/||regexp:.*/d" | sed "/^$/d")
+EOF
+
+cat $TMPFILE
+}
+
 case $1 in
     allrocket)
         allrocket
+        ;;
+    cnlist_autoswitch)
+        cnlist_autoswitch
         ;;
     *)
         domainlist $1

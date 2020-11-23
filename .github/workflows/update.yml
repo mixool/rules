@@ -26,6 +26,7 @@ jobs:
             wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt   | sed "s/^/.&/" | sed "/.regexp:.*/d" | sed "/^$/d" >domainset/greatfire.list
             wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt  | sed "s/^/.&/" | sed "/.regexp:.*/d" | sed "/^$/d" >domainset/proxy.list
             bash generate.sh allrocket >allrocket.conf
+            bash generate.sh cnlist_autoswitch >autoswitchcnlist.txt
 
       - name: push
         run: |
