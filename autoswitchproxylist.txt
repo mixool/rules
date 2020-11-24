@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2020-11-24 07:27:22.1606202842 +0000 UTC
+! Last Modified: 2020-11-24 22:24:08.1606256648 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -3127,6 +3127,7 @@
 ||avjoy.me
 ||avmo.pw
 ||avmoo.com
+||avmoo.cyou
 ||avmoo.net
 ||avmoo.pw
 ||avn.com
@@ -16503,6 +16504,7 @@
 ||poop.net
 ||poopeegirls.com
 ||popcap.com
+||popjav.tv
 ||popyard.com
 ||popyard.org
 ||porbhub.com
