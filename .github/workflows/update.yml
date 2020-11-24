@@ -27,6 +27,7 @@ jobs:
             wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt  | sed "s/^/.&/" | sed "/.regexp:.*/d" | sed "/^$/d" >domainset/proxy.list
             bash generate.sh allrocket >allrocket.conf
             bash generate.sh cnlist_autoswitch >autoswitchcnlist.txt
+            bash generate.sh category-porn >category-porn
 
       - name: push
         run: |
