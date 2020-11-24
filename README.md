@@ -1,7 +1,7 @@
 > daily automatic updates
 #### rules
-* [auto-proxy china list](https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt)  
-* [auto-proxy proxy list](https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt)  
+* [autoproxy cn-list ](https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt)  
+* [autoproxy gfwlist ](https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt)  
 * [shadowrocket config file](https://raw.githubusercontent.com/mixool/rules/main/allrocket.conf)  
 ---
 #### others
