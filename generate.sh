@@ -69,12 +69,28 @@ EOF
 cat $TMPFILE
 }
 
+function proxylist_autoswitch(){
+    cat <<EOF >$TMPFILE
+[AutoProxy]
+! Last Modified: $(date +%Y-%m-%d\ %T.%s) $(date +%z) UTC
+! Expires: 24h
+! HomePage: https://github.com/mixool/rules
+! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
+$(wget -qO- https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt | sed "s/^/||&/" | sed "/||regexp:.*/d" | sed "/^$/d")
+EOF
+
+cat $TMPFILE
+}
+
 case $1 in
     allrocket)
         allrocket
         ;;
     cnlist_autoswitch)
         cnlist_autoswitch
+        ;;
+    proxylist_autoswitch)
+        proxylist_autoswitch
         ;;
     *)
         domainlist $1
