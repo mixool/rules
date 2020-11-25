@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2020-11-24 22:24:08.1606256648 +0000 UTC
+! Last Modified: 2020-11-25 22:26:42.1606343202 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
