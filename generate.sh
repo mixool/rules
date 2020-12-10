@@ -32,13 +32,13 @@ ipv6 = false
 update-url = https://raw.githubusercontent.com/mixool/rules/main/allrocket.conf
 
 [Rule]
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/reject.list,REJECT
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/direct.list,DIRECT
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/apple-cn.list,DIRECT
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/google-cn.list,DIRECT
+#DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/reject.list,REJECT
+#DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/direct.list,DIRECT
+#DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/apple-cn.list,DIRECT
+#DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/google-cn.list,DIRECT
 DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/gfw.list,PROXY
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/greatfire.list,PROXY
-DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/proxy.list,PROXY
+#DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/greatfire.list,PROXY
+#DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/proxy.list,PROXY
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
