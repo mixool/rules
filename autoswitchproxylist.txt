@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2020-12-10 12:38:55.1607603935 +0000 UTC
+! Last Modified: 2020-12-10 22:30:47.1607639447 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -16533,7 +16533,6 @@
 ||playstation
 ||playstation.com
 ||playstation.net
-||playstationnetwork.com
 ||playtube.pk
 ||playvalorant.com
 ||playvid.com
@@ -25772,6 +25771,7 @@
 ||youjizz.com
 ||youjizzlive.com
 ||youlepoker.com
+||youlucky.com
 ||youmaker.com
 ||youneed.win
 ||younganaltryouts.com
