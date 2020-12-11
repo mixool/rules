@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2020-12-10 22:30:47.1607639447 +0000 UTC
+! Last Modified: 2020-12-11 22:31:04.1607725864 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -3411,6 +3411,7 @@
 ||bankiowa.com
 ||bankmandiri.co.id
 ||bankmobilevibe.com
+||banned.video
 ||bannedbook.org
 ||bannednews.org
 ||banorte.com
@@ -7753,6 +7754,7 @@
 ||edisebay.com
 ||edmontonchina.com
 ||edmontonservice.com
+||edninfo.com
 ||edns.biz
 ||edoors.com
 ||edu-research.org
@@ -7926,15 +7928,21 @@
 ||epinions.com
 ||episcopalchurch.org
 ||episodic.com
+||epoch.cloud
 ||epoch.com
+||epochbuy.com
+||epochcar.com
 ||epochhk.com
+||epochmall.com
 ||epochmediagroup.com
+||epochshop.com
 ||epochstories.com
 ||epochtime.com
 ||epochtimes-bg.com
 ||epochtimes-romania.com
 ||epochtimes.com
 ||epochtimes.it
+||epochtimeshk.org
 ||epochtimestr.com
 ||epochweek.com
 ||epochweekly.com
@@ -8028,6 +8036,7 @@
 ||etsy.com
 ||ettego.com
 ||ettoday.net
+||etviet.com
 ||eu
 ||eu-consumer-empowerment.com
 ||eu.org
@@ -9972,6 +9981,7 @@
 ||goldporntube.com
 ||goldstep.net
 ||goldwave.com
+||golosameriki.com
 ||gomextv.com
 ||gommehd.net
 ||gomokuworld.com
@@ -11512,6 +11522,8 @@
 ||informs.org
 ||infosys
 ||infotmj.com
+||infowars.com
+||infowarsmedia.com
 ||infrapedia.com
 ||infy
 ||ingads.com
@@ -14816,9 +14828,10 @@
 ||n1g.org
 ||n2.n4t.co
 ||n2k2.ch
-||n3ro.fun
 ||n3ro.live
+||n3ro.lol
 ||n3ro.net
+||n3ro.wtf
 ||n70717.com
 ||n88800.com
 ||n88810.com
@@ -15445,7 +15458,9 @@
 ||ntc.party
 ||ntd.com
 ||ntd.tv
+||ntdca.com
 ||ntdcantonese.com
+||ntdimg.com
 ||ntdtv.com
 ||ntdtv.org
 ||ntdtvla.com
@@ -16294,6 +16309,7 @@
 ||persagg.com
 ||persecution.net
 ||persecutionblog.com
+||persianepochtimes.com
 ||persiankitty.com
 ||personaltrainermath.com
 ||personeelsland.com
@@ -21455,6 +21471,7 @@
 ||wanip.ch
 ||wankspider.com
 ||wannaflix.com
+||wanokokorosoh.com
 ||wanqiucai.com
 ||want-daily.com
 ||wanyepu.com
@@ -23155,7 +23172,6 @@
 ||www.ecotibet.org
 ||www.ed2000.com
 ||www.edf818.com
-||www.edninfo.com
 ||www.educoco.com
 ||www.eg1111.vip
 ||www.egaleonews.bravehost.com
