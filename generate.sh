@@ -39,12 +39,22 @@ update-url = https://raw.githubusercontent.com/mixool/rules/main/allrocket.conf
 DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/gfw.list,PROXY
 #DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/greatfire.list,PROXY
 #DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/proxy.list,PROXY
+IP-CIDR,91.108.4.0/22,PROXY,no-resolve
+IP-CIDR,91.108.8.0/22,PROXY,no-resolve
+IP-CIDR,91.108.12.0/22,PROXY,no-resolve
+IP-CIDR,91.108.16.0/22,PROXY,no-resolve
+IP-CIDR,91.108.56.0/22,PROXY,no-resolve
+IP-CIDR,109.239.140.0/24,PROXY,PROXY
+IP-CIDR,149.154.160.0/20,PROXY,no-resolve
+IP-CIDR,2001:b28:f23d::/48,PROXY,no-resolve
+IP-CIDR,2001:b28:f23f::/48,PROXY,no-resolve
+IP-CIDR,2001:67c:4e8::/48,PROXY,no-resolve
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
 IP-CIDR,127.0.0.0/8,DIRECT
 GEOIP,CN,DIRECT
-FINAL,PROXY
+FINAL,DIRECT
 
 [Host]
 localhost = 127.0.0.1
