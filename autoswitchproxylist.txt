@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2020-12-22 22:41:38.1608676898 +0000 UTC
+! Last Modified: 2020-12-23 22:41:00.1608763260 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -5884,6 +5884,7 @@
 ||cms-api.lezhin.com
 ||cms.gov
 ||cms.korea.net
+||cmu.edu
 ||cmule.com
 ||cmule.net
 ||cmule.org
@@ -20918,11 +20919,9 @@
 ||vpn.airwallex.com
 ||vpn.asia
 ||vpn.cathayglory.org
-||vpn.cmu.edu
 ||vpn.com
 ||vpn.mbconnect24.net
 ||vpn.net
-||vpn.sv.cmu.edu
 ||vpn001.jimdo.com
 ||vpn4all.com
 ||vpn99.net

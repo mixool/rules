@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2020-12-22 22:41:38.1608676898 +0000 UTC
+! Last Modified: 2020-12-23 22:40:59.1608763259 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -58006,7 +58006,6 @@
 ||tootour.com
 ||toouoo.com
 ||toowa.com
-||top
 ||top-iot.com
 ||top100summit.com
 ||top147.com
