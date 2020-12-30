@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2020-12-29 22:41:51.1609281711 +0000 UTC
+! Last Modified: 2020-12-30 22:41:20.1609368080 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -828,7 +828,6 @@
 ||09rw.com
 ||09shijue.com
 ||09t55.com
-||0a7bv.icu
 ||0aaz.xyz
 ||0bug.org
 ||0car0.com
@@ -1458,7 +1457,6 @@
 ||12yc.cc
 ||12ym.com
 ||12ystar.com
-||12yt.com
 ||12zw.com
 ||13.gs
 ||130158.com
@@ -3371,6 +3369,7 @@
 ||360bike.net
 ||360buy.com
 ||360buyimg.com
+||360byd.com
 ||360bzl.com
 ||360caifu.com
 ||360cdn.com
@@ -3633,7 +3632,6 @@
 ||36krcnd.com
 ||36mh.com
 ||36nu.com
-||36oe.com
 ||36sfw.com
 ||36tr.com
 ||36ve.net
@@ -4953,7 +4951,6 @@
 ||51xbx.com
 ||51xcname.com
 ||51xcrc.com
-||51xfzy.com
 ||51xgjd.com
 ||51xiancheng.com
 ||51xianwan.com
@@ -5656,7 +5653,6 @@
 ||585998d.com
 ||58611.net
 ||5866.com
-||586jz.com
 ||587c51.com
 ||58801hn.com
 ||588102.com
@@ -11854,7 +11850,6 @@
 ||bbwfish.com
 ||bbwxbbs.com
 ||bbxinwen.com
-||bbxxbbs.net
 ||bbzhh.com
 ||bbzhi.com
 ||bc11889.com
@@ -12494,7 +12489,6 @@
 ||bigxiao.com
 ||bigzhong.com
 ||bigzhu.com
-||bigzhuang.com
 ||bihaiji.com
 ||bihaipack.com
 ||bihongbo.com
@@ -15839,7 +15833,6 @@
 ||chenshiyi.com
 ||chensonglin.net
 ||chenty.com
-||chenweiliang.com
 ||chenxi-sh.com
 ||chenxinghb.com
 ||chenxitxt.net
@@ -17814,7 +17807,6 @@
 ||cnfruit.com
 ||cnfsae.com
 ||cnfuchsiaos.com
-||cnfug.org
 ||cnfuyin.org
 ||cnfxj.org
 ||cnfygy.com
@@ -20316,7 +20308,6 @@
 ||dbscar.com
 ||dbshop.net
 ||dbt-coin.com
-||dbx-vip.com
 ||dbyb.org
 ||dbylptkhd.com
 ||dbytwl.com
@@ -22961,7 +22952,6 @@
 ||ecocn.org
 ||ecohumanity.org
 ||ecomoter.com
-||econline.net
 ||ecookinn.com
 ||ecoplastech.com
 ||ecoprint.tech
@@ -26647,7 +26637,6 @@
 ||geohey.com
 ||geoidc.com
 ||georgiaskater.com
-||georgiasparuhov.com
 ||geospatialsmart.com
 ||geotmt.com
 ||gepresearch.com
@@ -26762,7 +26751,6 @@
 ||gg1994.com
 ||gg8828.com
 ||ggac.net
-||ggbiji.com
 ||ggbomcase.com
 ||ggcida.com
 ||ggcj.com
@@ -27919,7 +27907,6 @@
 ||gumang.com
 ||gumaor.com
 ||gumei88.com
-||gummshoe.com
 ||gumo.pro
 ||gunfans.net
 ||gunfixer.com
@@ -32047,7 +32034,6 @@
 ||hx99.net
 ||hx9999.com
 ||hxage.com
-||hxatcapital.com
 ||hxbdxled.com
 ||hxbxw.com
 ||hxcdn.net
@@ -32744,6 +32730,7 @@
 ||ictuniv.com
 ||icuiya.com
 ||icver.com
+||icvip.com
 ||icxbk.com
 ||icxinli.com
 ||icy-capital.com
@@ -33795,7 +33782,6 @@
 ||ioage.com
 ||iobear.com
 ||iocrest.com
-||iocstrategies.com
 ||ioeyjsb.com
 ||ioffershow.com
 ||ioffice100.com
@@ -35794,6 +35780,7 @@
 ||jinyinyouhui.com
 ||jinyong999.com
 ||jinyongwang.com
+||jinyoukai.com
 ||jinyueya.com
 ||jinyueya.net
 ||jinyunweb.com
@@ -37633,6 +37620,7 @@
 ||kaoshishenqi.net
 ||kaoshizixun.com
 ||kaowana.com
+||kaowang.com
 ||kaoyan.com
 ||kaoyan.org
 ||kaoyan001.com
@@ -38445,7 +38433,6 @@
 ||krdrama.com
 ||krelve.com
 ||kriszhang.com
-||krmtv.com
 ||krmzz.org
 ||krpano.tech
 ||krshadow.com
@@ -38597,6 +38584,7 @@
 ||kuaijiren.com
 ||kuaijiruanjian.com
 ||kuaijishizi.com
+||kuaijisishu.com
 ||kuaijitong.com
 ||kuaijizheng365.com
 ||kuaikanmanhua.com
@@ -38985,7 +38973,6 @@
 ||lagouevents.com
 ||lagoujobs.com
 ||lagowang.com
-||laguantera.com
 ||lai-ai.com
 ||lai18.com
 ||laibxw.com
@@ -44899,7 +44886,6 @@
 ||nanlebbs.com
 ||nanlive.com
 ||nanmo1.com
-||nannanwo.com
 ||nanningjie.com
 ||nanoer.net
 ||nanopi.org
@@ -45867,7 +45853,6 @@
 ||nplusgroup.net
 ||npodevelopment.org
 ||npp.cc
-||nppdc.com
 ||npxsw.com
 ||npyun.com
 ||npz.com
@@ -48971,7 +48956,6 @@
 ||qiangchuan.com
 ||qiangfaxisu.com
 ||qianggen.com
-||qianggen.net
 ||qianggongzhang.com
 ||qianggou5.com
 ||qiangka.com
@@ -50852,7 +50836,6 @@
 ||rfthunder.com
 ||rg950.com
 ||rg959.com
-||rgas-chengdu.com
 ||rgb128.com
 ||rgfc.net
 ||rgoo.com
@@ -51613,7 +51596,6 @@
 ||sanhaofushi.com
 ||sanhaostreet.com
 ||sanhe-scale.com
-||sanhoairsea.com
 ||sanhong.org
 ||sanhucidiao.cc
 ||sanjiang.com
@@ -52183,6 +52165,7 @@
 ||seegif.com
 ||seek114.com
 ||seekbetter.me
+||seekchem.com
 ||seekfunbook.com
 ||seekonly.net
 ||seekoon.com
@@ -55983,7 +55966,6 @@
 ||szcatic.com
 ||szcec.com
 ||szchi.net
-||szchigemy.com
 ||szcno.com
 ||szcompare.com
 ||szcsot.com
@@ -56135,7 +56117,6 @@
 ||szrlqy.com
 ||szronna.com
 ||szrrjc.com
-||szrxkz.com
 ||szschj.com
 ||szsczx.com
 ||szseafoodexpo.com
@@ -57373,6 +57354,7 @@
 ||tiaotiaotang.net
 ||tiaozhanbei.net
 ||tiatiatoutiao.com
+||tibaitong.com
 ||tibet3.com
 ||tibet4wd.com
 ||tibet9.com
@@ -57913,7 +57895,6 @@
 ||tooseo.com
 ||tootour.com
 ||toouoo.com
-||toowa.com
 ||top-iot.com
 ||top100summit.com
 ||top147.com
@@ -59615,7 +59596,6 @@
 ||utan.com
 ||utanbaby.com
 ||utc-ic.com
-||utcmrd.com
 ||utdandan.com
 ||utecbj.com
 ||utepo.com
@@ -63471,7 +63451,6 @@
 ||wxguan.com
 ||wxhand.com
 ||wxhbts.com
-||wxhelper.com
 ||wxhmz.com
 ||wxhon.com
 ||wxhu.net
@@ -64405,6 +64384,7 @@
 ||xiaojian.site
 ||xiaojianjian.net
 ||xiaojiaoyar.com
+||xiaojiding.com
 ||xiaojing360.com
 ||xiaojiuwang.com
 ||xiaojl.com
@@ -65836,7 +65816,6 @@
 ||xspliter.com
 ||xsrjt.com
 ||xsrtvu.com
-||xss1.com
 ||xsshuku.com
 ||xssk.net
 ||xssousou.com
@@ -66205,6 +66184,7 @@
 ||xwood.net
 ||xwsj.org
 ||xwtex.com
+||xwuad.com
 ||xwxguan.com
 ||xwyun.net
 ||xwz999.com
@@ -66505,7 +66485,6 @@
 ||yafco.com
 ||yafdev.com
 ||yafeilinux.com
-||yagejie.com
 ||yahacode.com
 ||yahaizi.com
 ||yahei.net
@@ -69276,6 +69255,7 @@
 ||yuzhaiwuwang.com
 ||yuzhaiwuww.com
 ||yuzhenhai.com
+||yuzhike.com
 ||yuzhong.net
 ||yuzhongxxw.com
 ||yuzhoutuofu.com
@@ -72197,7 +72177,6 @@
 ||zuowenck.com
 ||zuowening.com
 ||zuowenjun.com
-||zuowenkong.com
 ||zuowenku.net
 ||zuowenren.com
 ||zuowens.com

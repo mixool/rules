@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2020-12-29 22:41:51.1609281711 +0000 UTC
+! Last Modified: 2020-12-30 22:41:20.1609368080 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -5347,6 +5347,7 @@
 ||cdn77.scoreuniverse.com
 ||cdninstagram.com
 ||cdnjs.com
+||cdnlab.live
 ||cdnpure.com
 ||cdnst.net
 ||cdp.org
@@ -11911,6 +11912,7 @@
 ||javbus.com
 ||javbus2.com
 ||javbus2.pw
+||javbus22.com
 ||javbz.com
 ||javcc.cc
 ||javcc.com
