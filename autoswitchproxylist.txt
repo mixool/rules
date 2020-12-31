@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2020-12-30 22:41:20.1609368080 +0000 UTC
+! Last Modified: 2020-12-31 22:41:00.1609454460 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -2581,6 +2581,7 @@
 ||appbridge.it
 ||appcenter.ms
 ||appcloud.com
+||appdomain.cloud
 ||appdownload.qm2500.com
 ||appdownloader.net
 ||appdynamics.com
