@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-01-05 22:42:27.1609886547 +0000 UTC
+! Last Modified: 2021-01-06 22:43:05.1609972985 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -3711,6 +3711,7 @@
 ||big.one
 ||big2wt.com
 ||big5sex.com
+||bigbigshop.com
 ||bigbird18.com
 ||bigbozz.org
 ||bigbreastarchive.com
@@ -7247,6 +7248,8 @@
 ||ecommtools.com
 ||economicsandpeace.org
 ||economist.com
+||economistgroup.com
+||economistgroupcareers.com
 ||ecsm.vs.com
 ||ecv.ebacc777.com
 ||edeka
@@ -7259,6 +7262,7 @@
 ||edicypages.com
 ||edilly.com
 ||edisebay.com
+||editorx.com
 ||edmontonservice.com
 ||edninfo.com
 ||edns.biz
@@ -7321,6 +7325,7 @@
 ||eireinikotaerukai.com
 ||eiresol.com
 ||eisbb.com
+||eiu.com
 ||ekh3.way-to-win.com
 ||ekhindi.com
 ||ekiry.com
@@ -15171,6 +15176,7 @@
 ||parallels.com
 ||paramitadirect.com
 ||paramount.com
+||parastorage.com
 ||pardot.com
 ||park-now.com
 ||parkansky.com
@@ -17191,6 +17197,7 @@
 ||shoestop2.com
 ||shooshtime.com
 ||shop-headphones.net
+||shop.app
 ||shopbeatsdre.com
 ||shopbmwmotorcycles.com
 ||shopbmwusa.com
@@ -17207,6 +17214,7 @@
 ||shopify.com
 ||shopify.dev
 ||shopifycdn.com
+||shopifycloud.com
 ||shopifystatus.com
 ||shopifysvc.com
 ||shoping.com
@@ -19050,10 +19058,13 @@
 ||tvants.com
 ||tvappstore.net
 ||tvb.com
+||tvbanywhere.com
 ||tvbccc.com
 ||tvbddd.com
 ||tvboxnow.com
 ||tvbppp.com
+||tvbusa.com
+||tvbweekly.com
 ||tvider.com
 ||tvplayvideos.com
 ||tvple.com
@@ -20681,7 +20692,10 @@
 ||witopia.com
 ||witopia.net
 ||wiwiwiki.kfd.me
+||wix-code.com
 ||wix.com
+||wixanswers.com
+||wixapps.net
 ||wixmp.com
 ||wixsite.com
 ||wixstatic.com
