@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-01-13 22:53:56.1610578436 +0000 UTC
+! Last Modified: 2021-01-14 22:51:33.1610664693 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -17387,6 +17387,7 @@
 ||cn-truck.com
 ||cn-visa.com
 ||cn-xbn.com
+||cn.actual.battle.net
 ||cn.bing.com
 ||cn.bing.net
 ||cn.img.stb.s-msn.com
