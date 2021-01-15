@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-01-14 22:51:33.1610664693 +0000 UTC
+! Last Modified: 2021-01-15 22:54:53.1610751293 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -4472,6 +4472,7 @@
 ||business-humanrights.org
 ||business-standard.com
 ||businesscatalyst.com
+||businessfocus.io
 ||businessinsider.com
 ||businesswebwise.com
 ||businessweek.com
@@ -5257,6 +5258,7 @@
 ||chinadigitaltimes.com
 ||chinadigitaltimes.net
 ||chinadigitaltimes.org
+||chinaeconomicreview.com
 ||chinaeforum.com
 ||chinaelections.org
 ||chinaengland.net
@@ -7466,6 +7468,7 @@
 ||ettego.com
 ||ettoday.net
 ||etviet.com
+||etwealth.com
 ||eu
 ||eu-consumer-empowerment.com
 ||eu.org
@@ -10021,6 +10024,7 @@
 ||hkbookcity.com
 ||hkchronicles.com
 ||hkchurch.org
+||hkcitizenmedia.com
 ||hkcmi.edu
 ||hkcnews.com
 ||hkcoc.com
@@ -10032,6 +10036,7 @@
 ||hkej.com
 ||hkepc.com
 ||hket.com
+||hketgroup.com
 ||hkfaa.com
 ||hkfreezone.com
 ||hkfront.org
@@ -13185,9 +13190,11 @@
 ||mingpaosf.com
 ||mingpaotor.com
 ||mingpaovan.com
+||mings-fashion.com
 ||mingshengbao.com
 ||mingshi118.com
 ||mingw.org
+||mingwatch.com
 ||minhhue.net
 ||mini
 ||mini-abudhabi.com
@@ -13705,6 +13712,7 @@
 ||my
 ||my-formosa.com
 ||my-free-mp3s.com
+||my-magazine.me
 ||my-proxy.com
 ||my.freev2ray.org
 ||my.gfw.cat
@@ -13860,6 +13868,7 @@
 ||mysims.com
 ||mysimsracing.com
 ||mysinablog.com
+||mysinchew.com
 ||myspace.com
 ||myspacecdn.com
 ||mysql.com
@@ -14466,6 +14475,7 @@
 ||np
 ||npm.community
 ||npmjs.com
+||npmjs.org
 ||npnt.me
 ||nps.gov
 ||npsboost.com
@@ -14619,6 +14629,7 @@
 ||oculusrift.com
 ||oculusvr.com
 ||od1n.io
+||odysee.com
 ||oed.com
 ||oeea.org
 ||oex.com
@@ -14693,6 +14704,7 @@
 ||omega
 ||omega.yikyakapi.net
 ||omekinteractive.com
+||omghk.com
 ||omgili.com
 ||omnigroup.com
 ||omnitalk.com
@@ -16466,6 +16478,7 @@
 ||rlwlw.com
 ||rmb802.com
 ||rmbav.com
+||rmbl.ws
 ||rmit
 ||rmjdw.com
 ||rmjdw132.info
@@ -16555,6 +16568,7 @@
 ||rukor.org
 ||rule34.xxx
 ||rumbatan.com
+||rumble.com
 ||run.app
 ||runbtx.com
 ||runnike.com
@@ -16619,6 +16633,7 @@
 ||safasti.com
 ||safe-inet.com
 ||safecart.com
+||safechat.com
 ||safeforwork.net
 ||safeguarddefenders.com
 ||safervpn.com
@@ -17145,8 +17160,13 @@
 ||sincai2.com
 ||since1989.org
 ||sineplex.net
+||sing68.com
 ||singfortibet.com
 ||singtao.com
+||singtaobooks.com
+||singtaola.com
+||singtaonewscorp.com
+||singtaoopo.com
 ||singtaousa.com
 ||sino-monthly.com
 ||sinoants.com
@@ -18736,6 +18756,8 @@
 ||trip7.net
 ||trisla.com
 ||tristatebmw.com
+||trithucvn.net
+||trithucvn.org
 ||trmini.com
 ||troisrivieresmini.com
 ||trombi.com
@@ -19458,6 +19480,7 @@
 ||vcf-online.org
 ||vcfbuilder.org
 ||vcloudair.net
+||vct.news
 ||vds.rightster.com
 ||ve
 ||vedaadvantage.com
@@ -19711,6 +19734,9 @@
 ||visionchinatimes.org
 ||visionsrv.club
 ||visiontimes.com
+||visiontimes.it
+||visiontimes.net
+||visiontimesjp.com
 ||visit.uncensoredlibrary.com
 ||vista
 ||vistafungame.com
@@ -20021,6 +20047,7 @@
 ||vtje.org
 ||vtsociety.org
 ||vtunnel.com
+||vtvan.com
 ||vu
 ||vuabai9.com
 ||vudu.com
@@ -22508,7 +22535,6 @@
 ||www.myfxcm.com
 ||www.mylamson.com
 ||www.myorz.com
-||www.mysinchew.com
 ||www.mystrongvpn.com
 ||www.mystrongvpn.org
 ||www.mytuitui.com
@@ -23241,7 +23267,6 @@
 ||www.vpnss06.com
 ||www.vpnsurfing.com
 ||www.vriendenvantibet.be
-||www.vtvan.com
 ||www.vvssf888.com
 ||www.vwin.com
 ||www.vwin180.com
