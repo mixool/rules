@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-01-18 22:54:08.1611010448 +0000 UTC
+! Last Modified: 2021-01-19 22:56:19.1611096979 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -17658,6 +17658,7 @@
 ||staples
 ||star-telegram.com
 ||starbucks.com
+||starbucksreserve.com
 ||starcelebs.com
 ||starchu.com
 ||starcraft.com
