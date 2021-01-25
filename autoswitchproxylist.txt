@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-01-24 22:51:35.1611528695 +0000 UTC
+! Last Modified: 2021-01-25 22:40:03.1611614403 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -5757,6 +5757,7 @@
 ||coreextreme.com
 ||coreml.net
 ||coreoptics.net
+||corepublishingsolutions.com
 ||coreyjew.com
 ||coronavirusnow.com
 ||corp.bandsintown.com
@@ -7287,6 +7288,7 @@
 ||elexpresso.com
 ||elgoog.im
 ||elifesciences.org
+||elite.com
 ||elitebabes.com
 ||elitter.net
 ||elixir-lang.org
@@ -12148,6 +12150,7 @@
 ||lefrak
 ||legalporno.com
 ||legaltech.law.com
+||legaltracker.com
 ||legend.pandafan.org
 ||leggycash.com
 ||lego
@@ -16005,6 +16008,9 @@
 ||puffstore.com
 ||pugetsoundbmw.com
 ||pugetsoundmini.com
+||pugpig-dev.com
+||pugpig-stage.com
+||pugpig.com
 ||pullfolio.com
 ||pullstring.net
 ||pumped.io
@@ -18452,6 +18458,7 @@
 ||thomassmart.com
 ||thompent.com
 ||thomsonreuters.com
+||thomsonreutersmexico.com
 ||thongdreams.com
 ||thoof.com
 ||threatchaos.com
@@ -18647,6 +18654,7 @@
 ||tmhk.org
 ||tmi.me
 ||tmpp.org
+||tmsnrt.rs
 ||tn
 ||tn1.shemalez.com
 ||tn2.shemalez.com
@@ -18758,6 +18766,7 @@
 ||tparents.org
 ||tpprc.org
 ||tr
+||tr.com
 ||tr.im
 ||tra.tvbjjj.com
 ||trace.org
