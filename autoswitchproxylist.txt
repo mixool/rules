@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-01-25 22:40:03.1611614403 +0000 UTC
+! Last Modified: 2021-01-26 22:32:21.1611700341 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -15499,17 +15499,21 @@
 ||pitney
 ||pittpatt.com
 ||pivotalinitiative.com
+||pixanalytics.com
 ||pixapp.net
 ||pixate.com
 ||pixelmator.com
 ||pixelqi.com
+||pixfs.net
 ||pixia.com
 ||pixiv.com
 ||pixiv.me
 ||pixiv.net
 ||pixiv.org
 ||pixivsketch.net
+||pixnet.cc
 ||pixnet.net
+||pixnet.pro
 ||pixolium.com
 ||pixtronix.com
 ||pj2019.com
