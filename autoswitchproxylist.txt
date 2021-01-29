@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-01-28 22:34:45.1611873285 +0000 UTC
+! Last Modified: 2021-01-29 22:33:46.1611959626 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -7452,6 +7452,7 @@
 ||esg.t91y.com
 ||eskimotube.com
 ||eslite.com
+||esm.run
 ||esmatube.com
 ||esmtp.biz
 ||espn.com
