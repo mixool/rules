@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-01-29 22:33:45.1611959625 +0000 UTC
+! Last Modified: 2021-01-30 22:33:27.1612046007 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -2579,7 +2579,6 @@
 ||22edu.com
 ||22evil.com
 ||22ff.com
-||22ff.org
 ||22hd.com
 ||22hyk.com
 ||22ja.com
@@ -3390,6 +3389,7 @@
 ||360tpcdn.com
 ||360u9.com
 ||360uu.com
+||360vipshop.com
 ||360vps.com
 ||360vrzy.com
 ||360wbl.com
@@ -5275,6 +5275,7 @@
 ||5360ok.com
 ||53617686.com
 ||5366.com
+||53666.org
 ||536wx.com
 ||537.com
 ||5379yx.com
@@ -9817,7 +9818,6 @@
 ||ane56.com
 ||aneasystone.com
 ||anf-z.com
-||anfadianqi.com
 ||anfan.com
 ||anfang086.com
 ||anfang6688.com
@@ -10149,7 +10149,6 @@
 ||aoyunque.com
 ||aozehuanbao.com
 ||aozhougoufang.com
-||aozsw.com
 ||ap88.com
 ||apa.me
 ||apabi.com
@@ -12930,7 +12929,6 @@
 ||blazefire.com
 ||blazefire.net
 ||blbx.com
-||blc-cn.com
 ||blchen.com
 ||blctwed.com
 ||bld-hotel.com
@@ -15606,6 +15604,7 @@
 ||chhzm.com
 ||chi2ko.com
 ||chi588.com
+||chiang.fun
 ||chianqs.com
 ||chibaole.com
 ||chichuang.com
@@ -16445,7 +16444,6 @@
 ||chncomic.com
 ||chncpa.org
 ||chncwds.com
-||chndayu.com
 ||chndesign.com
 ||chndsnews.com
 ||chndtb.com
@@ -27514,7 +27512,6 @@
 ||gwauto.com
 ||gwclouds.net
 ||gwdang.com
-||gwdij.com
 ||gwell.cc
 ||gwidc.com
 ||gwj-test.com
@@ -29553,6 +29550,7 @@
 ||higame123.com
 ||higeshi.com
 ||highdigitizing.com
+||highgg.com
 ||highgo.com
 ||highlm.com
 ||hightopo.com
@@ -34661,6 +34659,7 @@
 ||jiazhua.com
 ||jiazhuang.com
 ||jiazhuang6.com
+||jiazijun.com
 ||jiazile.com
 ||jiazuo.cc
 ||jibai.com
@@ -36244,6 +36243,7 @@
 ||justep.com
 ||justering.com
 ||justjavac.com
+||justoracle.com
 ||justpodmedia.com
 ||justsy.com
 ||justwe.site
@@ -37428,6 +37428,7 @@
 ||km18.net
 ||km1818.com
 ||km198.com
+||kmaa4.com
 ||kmail.com
 ||kmapp.net
 ||kmcaishui.com
@@ -40966,6 +40967,7 @@
 ||lz520.net
 ||lz6.com
 ||lzabcd.com
+||lzafny.com
 ||lzane.com
 ||lzbank.com
 ||lzc369.com
@@ -46966,7 +46968,6 @@
 ||pkvs.com
 ||pkzx.com
 ||plaidc.com
-||planetdoge.com
 ||planetmeican.com
 ||planoi.com
 ||plantextra.com
@@ -47160,7 +47161,6 @@
 ||poqsoft.com
 ||porlockz.com
 ||porschesky.com
-||portofinohotels.cc
 ||portoflower.com
 ||ports-intl.com
 ||pos.gold
@@ -49367,6 +49367,7 @@
 ||qzone.cc
 ||qzone.com
 ||qzoneapp.com
+||qzqstudio.com
 ||qzrbx.com
 ||qzrc.com
 ||qzrx.net
@@ -49695,7 +49696,6 @@
 ||remembermor.club
 ||rememtek.com
 ||remen88.com
-||remote88.com
 ||remoteaps.com
 ||remotedu.com
 ||renaren.com

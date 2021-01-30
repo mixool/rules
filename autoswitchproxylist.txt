@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-01-29 22:33:46.1611959626 +0000 UTC
+! Last Modified: 2021-01-30 22:33:27.1612046007 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -1653,6 +1653,7 @@
 ||adgoogle.net
 ||adguard-vpn.com
 ||adguard.com
+||adhelpnews.com
 ||adidas.be
 ||adidas.ch
 ||adidas.com
@@ -2313,6 +2314,7 @@
 ||api.identitynow.com
 ||api.linksalpha.com
 ||api.mixpanel.com
+||api.news
 ||api.ott.pm
 ||api.phantom.avira-vpn.com
 ||api.pncle8.com
@@ -3050,6 +3052,8 @@
 ||barefoot
 ||barefootnetworks.com
 ||barenakedislam.com
+||barrons-advisor.com
+||barrons-conferences.com
 ||barrons.com
 ||barrymatv.com
 ||bartvpn.com
@@ -3655,6 +3659,7 @@
 ||bigbozz.org
 ||bigbreastarchive.com
 ||bigbuckbunny.org
+||bigcharts.com
 ||bigfishgames.com
 ||bigfools.com
 ||biggestproblemintheuniverse.com
@@ -4227,6 +4232,7 @@
 ||bookartscentral.com
 ||bookbao8.com
 ||bookclubcorner.com
+||bookclubgirl.com
 ||bookdepository.com
 ||bookepub.com
 ||bookgb.bfnn2.org
@@ -4879,6 +4885,7 @@
 ||cardrogue.com
 ||carebay.com
 ||careerfundas.com
+||careerjournal.com
 ||careersatfb.com
 ||carekit.org
 ||caremore
@@ -5666,6 +5673,7 @@
 ||collateralmurder.org
 ||collective99.com
 ||collegehumor.com
+||collegejournal.com
 ||colorprotechnology.com
 ||colug.org
 ||comcast
@@ -6531,6 +6539,7 @@
 ||djdj868.com
 ||djorz.com
 ||djpt988.com
+||djreprints.com
 ||djyimg.com
 ||dk
 ||dkbeatsbydre.com
@@ -7378,6 +7387,7 @@
 ||epaper.wsj-asia.com
 ||epicbrowser.com
 ||epicgames.com
+||epicreads.com
 ||epigeum.com
 ||epinions.com
 ||episcopalchurch.org
@@ -8282,6 +8292,7 @@
 ||fnac.be
 ||fnac.com
 ||fnacebook.com
+||fnlondon.com
 ||fo
 ||foampositeshoes.com
 ||fochk.org
@@ -9760,6 +9771,12 @@
 ||hardsextube.com
 ||hardtied.com
 ||hardx.com
+||harperacademic.com
+||harperapps.com
+||harpercollins.com
+||harpercollinsadvantage.com
+||harpercollinschristian.com
+||harpercollinsspeakersbureau.com
 ||harunyahya.com
 ||hashicorp.com
 ||haskell.org
@@ -9794,6 +9811,7 @@
 ||hcaptchastatus.com
 ||hce.itechzero.com
 ||hclips.com
+||hcpdts.com
 ||hd.cssyz.xyz
 ||hd.now-ip.net
 ||hd.port0.org
@@ -10207,6 +10225,8 @@
 ||hotvpn.com
 ||hougaige.com
 ||houseofloy.net
+||housing.com
+||housingcdn.com
 ||houtroos.com
 ||howfu.me
 ||howtoforge.com
@@ -10379,6 +10399,7 @@
 ||huanghuagang.org
 ||huangyiyu.com
 ||huanyin.org
+||huanyuju.com
 ||huaren.us.com
 ||huaren4us.com
 ||huarian.com
@@ -11105,6 +11126,8 @@
 ||ipple.com
 ||ippog.org
 ||ippotv.com
+||ippstatic.com
+||iproperty.com
 ||iproxysite.com
 ||ipsxtv.com
 ||iptvbin.com
@@ -12236,6 +12259,7 @@
 ||liberapay.org
 ||library.moegirl.org
 ||library.pressdisplay.com
+||librarylovefest.com
 ||libreswan.org
 ||libsyn.com
 ||licdn.com
@@ -12731,6 +12755,7 @@
 ||maiplus.com
 ||mairbeats.com
 ||maizhong.org
+||makaan.com
 ||makebettercode.com
 ||makecode.org
 ||makeeu.com
@@ -12776,6 +12801,7 @@
 ||manporn.xxx
 ||mansion.com
 ||mansion88.com
+||mansionglobal.com
 ||mansionpoker.com
 ||manta.com
 ||manyhats.pao-pao.org
@@ -13578,6 +13604,8 @@
 ||motorshowblog.com
 ||mousebreaker.com
 ||move-free.net
+||move.com
+||moveaws.com
 ||movefreeoffers.com
 ||movefreerewards.com
 ||movefrees.com
@@ -13853,6 +13881,7 @@
 ||myftp.info
 ||myftp.name
 ||myftp.org
+||myfun.com
 ||mygalgame.com
 ||mygaysites.com
 ||mygraybar.graybar.com
@@ -14156,12 +14185,14 @@
 ||news.siteintelgroup.com
 ||news.thefappening.sexy
 ||news24.com
+||newsamerica.com
 ||newsancai.com
 ||newsblur.com
 ||newschinacomment.org
 ||newschristmasshopping.com
 ||newscn.org
 ||newscorp.com
+||newscorpaustralia.com
 ||newsdh.com
 ||newser.com
 ||newsextube.org
@@ -14173,9 +14204,11 @@
 ||newsnowfox.com
 ||newspaperdirect.com
 ||newspeak.cc
+||newssyndication.com
 ||newstamago.com
 ||newstapa.org
 ||newstarnet.com
+||newsukadops.com
 ||newsupermariobrosu.com
 ||newsweek.com
 ||newswithviews.tv
@@ -14434,6 +14467,7 @@
 ||nl
 ||nl.hideproxy.me
 ||nlfreevpn.com
+||nlm.io
 ||nm128.com
 ||nmbmw.com
 ||nn337.net
@@ -14591,6 +14625,7 @@
 ||nvidia.ch
 ||nvidia.com
 ||nvidia.it
+||nvidiaforhp.com
 ||nvpn.net
 ||nvquan.org
 ||nvtongzhisheng.org
@@ -14871,6 +14906,7 @@
 ||openweave.io
 ||openwebster.com
 ||openwrt.org
+||opinionjournal.com
 ||opml.radiotime.com
 ||optanedifference.com
 ||opticalize.com
@@ -15865,6 +15901,7 @@
 ||promotion.1617fa.com
 ||pron.tv
 ||pronetsyscr.com
+||proptiger.com
 ||proquest.com
 ||pros.ee
 ||prostores.com
@@ -16306,6 +16343,12 @@
 ||rd.com
 ||rdio.com
 ||re
+||rea-asia.com
+||rea-group.com
+||rea.design
+||rea.global
+||rea.io
+||rea.tech
 ||reabble.com
 ||reachtheworldonfacebook.com
 ||react.com
@@ -16347,6 +16390,7 @@
 ||realclearscience.com
 ||realclearworld.com
 ||realcourage.org
+||realestatejournal.com
 ||realforum.zkiz.com
 ||realgfporn.com
 ||realgoodejuice.com
@@ -16356,8 +16400,10 @@
 ||realmilwaukeenow.com
 ||realraptalk.com
 ||realsexpass.com
+||realtor.com
 ||realvision.com
 ||reason.com
+||reastatic.net
 ||rebatesrule.net
 ||rebrandly.com
 ||rec69.cc
@@ -16639,6 +16685,7 @@
 ||ruistudio.com
 ||rukor.org
 ||rule34.xxx
+||rumah123.com
 ||rumbatan.com
 ||rumble.com
 ||run.app
@@ -17095,6 +17142,7 @@
 ||shazam.com
 ||sheikyermami.com
 ||shejav.com
+||shelfstuff.com
 ||shell
 ||shellmix.com
 ||shendiantong.com
@@ -17349,6 +17397,7 @@
 ||smartcommunitiescoalition.com
 ||smartcommunitiescoalition.org
 ||smartdnsproxy.com
+||smartexpos.com
 ||smarthide.com
 ||smartmailcloud.com
 ||smartnews-agency.com
@@ -17735,6 +17784,7 @@
 ||startpage.com
 ||startpath.com
 ||startss.net
+||startupjournal.com
 ||startuplivingchina.com
 ||startupschool.org
 ||starwars.com
@@ -17821,6 +17871,7 @@
 ||storify.com
 ||stormmediagroup.com
 ||story.5article.com
+||storyful.com
 ||stoweboyd.com
 ||straightfraternity.com
 ||straightouttasomewhere.com
@@ -18233,6 +18284,8 @@
 ||teenslovehugecocks.com
 ||teenzvidz.com
 ||teepr.com
+||tegrazone.co
+||tegrazone.com
 ||tehrantimes.com
 ||tekniktv.com
 ||telebay.com
@@ -18451,6 +18504,7 @@
 ||thinkforexasia.com
 ||thinkgeek.com
 ||thinkingtaiwan.com
+||thinkofliving.com
 ||thinkquarterly.com
 ||thinkstockphotos.com
 ||thinkwithgoogle.com
@@ -18589,6 +18643,7 @@
 ||timelinestoryteller.com
 ||times-bignews.com
 ||times.com
+||timesmembership.com
 ||timesnownews.com
 ||timesofindia.com
 ||timesofindia.indiatimes.com
@@ -20602,6 +20657,7 @@
 ||wiredbytes.com
 ||wiredpen.com
 ||wireguard.com
+||wireless.radio
 ||wirelessreach.com
 ||wiremoneytoirelandwithxoomeasierandcheaper.com
 ||wireshark.org
@@ -20770,8 +20826,14 @@
 ||wsdc9944.com
 ||wsdc998.com
 ||wsj.com
+||wsj.jobs
 ||wsj.net
+||wsjbarrons.com
 ||wsjhk.com
+||wsjmediakit.com
+||wsjplus.com
+||wsjshop.com
+||wsjwine.com
 ||wsvip9.com
 ||wsws.org
 ||wtbn.org
