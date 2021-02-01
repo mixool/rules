@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-01-31 22:34:25.1612132465 +0000 UTC
+! Last Modified: 2021-02-01 22:36:20.1612218980 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -711,7 +711,6 @@
 ||07ren.com
 ||07swz.com
 ||0813fs.com
-||0813gupiao.com
 ||0817tv.com
 ||0818tuan.com
 ||0826j.com
@@ -8152,6 +8151,7 @@
 ||99leba.com
 ||99max.me
 ||99mc.com
+||99meiju.tv
 ||99meijutv.com
 ||99meili.com
 ||99milk.com
@@ -9621,7 +9621,6 @@
 ||aljj.com
 ||alktaab.com
 ||alkuyi.com
-||all-appp.com
 ||all-dream.com
 ||all3c.com
 ||all4seiya.net
@@ -13264,7 +13263,6 @@
 ||bosera.com.hk
 ||boshi.tv
 ||boshika.com
-||boshipai.com
 ||boshixitong.com
 ||boshiyl.com
 ||boshuo.net
@@ -17233,6 +17231,7 @@
 ||cn0917.com
 ||cn12333.com
 ||cn12365.org
+||cn163.net
 ||cn168.com
 ||cn18k.com
 ||cn2-cn2.com
@@ -17745,7 +17744,6 @@
 ||cnsifa.net
 ||cnsikao.com
 ||cnsimin.com
-||cnsjx.net
 ||cnskf-bearing.com
 ||cnskyit.com
 ||cnsnpj.com
@@ -18590,6 +18588,7 @@
 ||crossmo.com
 ||crossoverchina.com
 ||crosswaycn.com
+||crowya.com
 ||crpaas.com
 ||crrcgc.cc
 ||crs811.com
@@ -21832,7 +21831,6 @@
 ||duoqu.com
 ||duorenwei.com
 ||duorou.com
-||duorous.com
 ||duosai.com
 ||duose.com
 ||duosenfashion.com
@@ -32998,6 +32996,7 @@
 ||inlsd.org
 ||inmeng.net
 ||inmuu.com
+||inneed.club
 ||innlym.me
 ||innojoy.com
 ||innotechx.com
@@ -33802,7 +33801,6 @@
 ||ixiguan.com
 ||ixiguavideo.com
 ||iximo.com
-||ixinfan.com
 ||ixingji.com
 ||ixinglu.com
 ||ixingmei.com
@@ -40916,6 +40914,7 @@
 ||lyjinqiao.com
 ||lylryy.com
 ||lymil.com
+||lymlgj.com
 ||lyn8.com
 ||lynkco.com
 ||lyobs.com
@@ -50141,6 +50140,7 @@
 ||rrkyw.com
 ||rrl360.com
 ||rrliuxue.com
+||rrmeiju.com
 ||rrmj.net
 ||rrmj.tv
 ||rrppt.com
@@ -50398,7 +50398,6 @@
 ||rznsl.com
 ||rzok.net
 ||rzrc114.com
-||rzrjjm.com
 ||rzwzg.com
 ||rzx.me
 ||rzxdjy.com
@@ -50441,6 +50440,7 @@
 ||sa-log.com
 ||sa20.com
 ||saas88.com
+||saasruanjian.com
 ||saasv.com
 ||saaswaf.com
 ||saayaa.com
@@ -52111,7 +52111,6 @@
 ||shmyapi.com
 ||shmylike.co
 ||shmylike.com
-||shmzlaw.com
 ||shnaer.com
 ||shnb12315.com
 ||shncsl.com
@@ -52542,6 +52541,7 @@
 ||shxsy.org
 ||shxt.com
 ||shxwcb.com
+||shxy888.com
 ||shy99.com
 ||shyacz.com
 ||shyanke.com
@@ -54035,7 +54035,6 @@
 ||steinslab.xyz
 ||stemcellscn.com
 ||stepfpga.com
-||steroidgames.com
 ||stetcher.com
 ||stevenshi.me
 ||stewartcn.com
@@ -59683,7 +59682,6 @@
 ||wanmeila.com
 ||wanmeilink.com
 ||wanmeilr.com
-||wanmeiyichu.com
 ||wanmeiyueyu.com
 ||wanmeiyunjiao.com
 ||wanmi.cc
@@ -59864,7 +59862,6 @@
 ||wcmrpx.com
 ||wcsapi.com
 ||wcsfa.com
-||wctfyy.com
 ||wcwlmobi.com
 ||wcxichenqi.com
 ||wcyecs.com
@@ -61737,6 +61734,7 @@
 ||wrtsz.com
 ||wrwugl.com
 ||wrx319.com
+||ws-dla.com
 ||ws.ksmobile.net
 ||wsaf.net
 ||wsamc.com
@@ -62286,7 +62284,6 @@
 ||wys.net
 ||wysaid.org
 ||wysap.com
-||wysgtx.com
 ||wysjy.com
 ||wysls.com
 ||wysww.vip
@@ -62408,7 +62405,6 @@
 ||xabcloud.com
 ||xacbank.com
 ||xacnnic.com
-||xactad.org
 ||xadamai.com
 ||xadiannao.com
 ||xaecong.com
@@ -65172,7 +65168,6 @@
 ||y80s.com
 ||y80s.net
 ||y999.com
-||ya068.com
 ||ya17.com
 ||ya247.com
 ||yaahe.com
@@ -66665,7 +66660,6 @@
 ||ynit580.com
 ||ynkcfc.com
 ||ynlibs.com
-||ynlv114.com
 ||ynlyfw.com
 ||ynmec.com
 ||ynmz.net
@@ -68848,6 +68842,7 @@
 ||zhaidou.com
 ||zhaifu.cc
 ||zhaifu.tv
+||zhaihai.com
 ||zhaiiker.com
 ||zhaikexueyuan.com
 ||zhainanba.net
