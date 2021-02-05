@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-02-04 22:28:50.1612477730 +0000 UTC
+! Last Modified: 2021-02-05 22:28:22.1612564102 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -2487,6 +2487,7 @@
 ||applemagickeyboard.com
 ||applemasters.info
 ||applemusic.berlin
+||applemusic.co
 ||applemusic.com
 ||applemusic.hamburg
 ||applemusic.wang
@@ -9541,8 +9542,6 @@
 ||gostorego.com
 ||gosyntheticusa.com
 ||got-game.org
-||got001.com
-||got002.com
 ||gotcosmos.com
 ||gotdns.ch
 ||gotgayporn.com
@@ -11681,7 +11680,6 @@
 ||jsfiddle.net
 ||jshint.com
 ||jstor.org
-||jstucdn.com
 ||jtbc.joins.com
 ||jtizyl.net
 ||jtvnw.net
@@ -13054,6 +13052,7 @@
 ||meetyourdevices.com
 ||mefeedia.com
 ||mefound.com
+||mega.io
 ||megacorpwars.com
 ||megaphone.fm
 ||megaproxy.com
@@ -15651,7 +15650,6 @@
 ||playboy.com
 ||playboyplus.com
 ||playbydurex.com
-||playcvn.com
 ||player.4fusion.xyz
 ||player.fm
 ||playerjs.io
@@ -16701,10 +16699,6 @@
 ||rrr626.net
 ||rrr633.net
 ||rrtis.com
-||rrys.tv
-||rrys2019.com
-||rrys2020.com
-||rrysapp.com
 ||rsc.org
 ||rsdlmonitor.com
 ||rsf-chinese.org
@@ -24528,7 +24522,6 @@
 ||yy0110.com
 ||yy735.com
 ||yyabo12.com
-||yyets.com
 ||yyg.deptofhealth.xyz
 ||yyhbet.com
 ||yyii.org
@@ -24679,8 +24672,6 @@
 ||zhwp.org
 ||ziddu.com
 ||zillionk.com
-||zimuzu.com
-||zimuzu.tv
 ||zind.cloud
 ||zinio.com
 ||zionsoft.net
@@ -24693,8 +24684,6 @@
 ||zkaip.com
 ||zkoxv.com
 ||zm
-||zmz2019.com
-||zmzapi.com
 ||zndsk.com
 ||zneth.com
 ||znetlive.com
