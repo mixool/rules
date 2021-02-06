@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-02-05 22:28:22.1612564102 +0000 UTC
+! Last Modified: 2021-02-06 22:27:37.1612650457 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -1528,7 +1528,6 @@
 ||aaronnieh.com
 ||aarp
 ||aashiengg.com
-||aast.edu
 ||aavideo.live
 ||aavs.xyz
 ||abacusnews.com
@@ -1564,7 +1563,6 @@
 ||aboutmcdonalds.com
 ||aboutyourmini.com
 ||abpchina.org
-||abs.edu
 ||abyfine.web.id
 ||ac
 ||ac-pocketcamp.com
@@ -1745,7 +1743,6 @@
 ||aetoscg.com
 ||aex.com
 ||af
-||af.mil
 ||afamilycompany
 ||afantibbs.com
 ||afcp09.com
@@ -2176,7 +2173,6 @@
 ||ampproject.com
 ||ampproject.net
 ||ampproject.org
-||amrita.edu
 ||ams02.space
 ||ams1.racingvpn.com
 ||amtb-taipei.org
@@ -2321,7 +2317,6 @@
 ||api.phantom.avira-vpn.com
 ||api.pncle8.com
 ||api.proxlet.com
-||api.termius.com
 ||api.threema.ch
 ||api.vitservers.pw
 ||api.wangrunxin.com
@@ -2614,9 +2609,7 @@
 ||areyoucreditwise.com
 ||aria.ms
 ||arizona-friends-of-tibet.org
-||arlingtoncemetery.mil
 ||armorgames.com
-||army.mil
 ||armyporn.ml
 ||arph.org
 ||arphic.com
@@ -3046,7 +3039,6 @@
 ||bannednews.org
 ||banorte.com
 ||bansheerocks.com
-||banweb.concordia-ny.edu
 ||baramangaonline.com
 ||barclaycard
 ||barclays
@@ -3518,7 +3510,6 @@
 ||bergherz.ch
 ||beric.me
 ||berkanawireless.com
-||berkeley.edu
 ||berlintwitterwall.com
 ||berzinarchives.com
 ||bestbeats4u.com
@@ -3730,7 +3721,6 @@
 ||bitballoon.com
 ||bitbank.cc
 ||bitbucket.org
-||bitc.bme.emory.edu
 ||bitchute.com
 ||bitcoin.org
 ||bitcointalk.org
@@ -4383,7 +4373,6 @@
 ||brocaproject.com
 ||bronks.net
 ||bronto.com
-||brookings.edu
 ||brother
 ||brotli.org
 ||brovpn.io
@@ -5109,7 +5098,6 @@
 ||cfxzp.com
 ||cg
 ||cgdepot.org
-||cgst.edu
 ||ch.shvoong.com
 ||ch5.cc
 ||ch9.ms
@@ -5558,7 +5546,6 @@
 ||cm
 ||cm.spacetechnology.net
 ||cm33.cf
-||cmail.cornell.edu
 ||cmail19.com
 ||cmcmarkets.com
 ||cmcn.org
@@ -5566,7 +5553,6 @@
 ||cmhalq.com
 ||cmpaas.com
 ||cms.korea.net
-||cmu.edu
 ||cmule.com
 ||cmule.net
 ||cmule.org
@@ -5632,7 +5618,6 @@
 ||cnshopin.com
 ||cntube.net
 ||cnyes.com
-||co.ng.mil
 ||co.spacetechnology.net
 ||coastshoxs.com
 ||cobatt.com
@@ -6106,7 +6091,6 @@
 ||dalailama.com
 ||dalailama.it
 ||dalailama.org
-||dalailama.usc.edu
 ||dalailama80.org
 ||dalailamacenter.org
 ||dalailamafellows.org
@@ -6149,7 +6133,6 @@
 ||darkness-risen.com
 ||darktech.org
 ||darktoy.net
-||darpa.mil
 ||darrenliuwei.com
 ||dart.dev
 ||dartlang.org
@@ -6364,7 +6347,6 @@
 ||df8mm.com
 ||df911.xyz
 ||df915.com
-||dfas.mil
 ||dfh48.com
 ||dfn.org
 ||dgbc.coworking-space.cc
@@ -6855,7 +6837,6 @@
 ||dstv
 ||dtdns.net
 ||dtiblog.com
-||dtic.mil
 ||dtsell.com
 ||dtunnel.com
 ||dtv
@@ -7239,6 +7220,7 @@
 ||edninfo.com
 ||edns.biz
 ||edoors.com
+||edu
 ||edu-research.org
 ||edubridge.com
 ||educationtimes.com
@@ -7880,7 +7862,6 @@
 ||falun-inlandnw.org
 ||falun-ne.org
 ||falun-ny.net
-||falun.caltech.edu
 ||falunart.org
 ||falunasia.info
 ||falunau.org
@@ -9383,7 +9364,6 @@
 ||goldenfrog.com
 ||goldenshara5-net.freeproxy.fun
 ||goldjizz.com
-||goldmail.etsu.edu
 ||goldnikeclub.com
 ||goldpoint
 ||goldstep.net
@@ -9424,7 +9404,6 @@
 ||google.berlin
 ||google.bf
 ||google.bt
-||google.calstate.edu
 ||google.cat
 ||google.cc
 ||google.cf
@@ -9688,7 +9667,6 @@
 ||gunsnroses.com
 ||guo.media
 ||guokehome.xicp.net
-||gusconnect.barnesjewishcollege.edu
 ||gutteruncensored.com
 ||gv.com
 ||gv104.com
@@ -10099,7 +10077,6 @@
 ||hkchronicles.com
 ||hkchurch.org
 ||hkcitizenmedia.com
-||hkcmi.edu
 ||hkcnews.com
 ||hkcoc.com
 ||hkday.net
@@ -11212,7 +11189,6 @@
 ||isaacmao.com
 ||isaacscomputertips.com
 ||isasecret.com
-||isc.sans.edu
 ||isca-speech.org
 ||ischool.com
 ||isebaro.com
@@ -11266,7 +11242,6 @@
 ||itnext.io
 ||itools.info
 ||itripto.com
-||its.caltech.edu
 ||itsaol.com
 ||itsapenalty.com
 ||itsbetterwhenyouwinit.com
@@ -12098,7 +12073,6 @@
 ||landrover
 ||lang51.com
 ||lang588.com
-||languagelog.ldc.upenn.edu
 ||lanking.web44.net
 ||lantern.io
 ||lanternal.com
@@ -12140,7 +12114,6 @@
 ||launchpadlibrarian.org
 ||laurelvictoriagray.com
 ||law-hongkong.com
-||law.uci.edu
 ||lawofhongkong.com
 ||lawsofhongkong.com
 ||lawyerpu.com
@@ -12363,7 +12336,6 @@
 ||linuxfromscratch.org
 ||linuxmint.com
 ||linuxtoy.org
-||lionmail.columbia.edu
 ||lionsdesneigesmontblanc.over-blog.com
 ||lionsroar.com
 ||lipsy
@@ -13264,6 +13236,7 @@
 ||mike.cz.cc
 ||mikesoltys.com
 ||miktex.org
+||mil
 ||milnews2.com
 ||milofetch.com
 ||milph.net
@@ -13431,7 +13404,6 @@
 ||mist.so
 ||mist.vip
 ||mit
-||mit.edu
 ||mit.net
 ||mitbbs.com
 ||mitbbs.org
@@ -14093,8 +14065,6 @@
 ||naver.com
 ||naver.net
 ||navercorp.com
-||navyfamily.navy.mil
-||navyreserve.navy.mil
 ||naweeklytimes.com
 ||nazi.net
 ||nb.kity.pw
@@ -14295,7 +14265,6 @@
 ||nflxvideo.net
 ||nfsworld.com
 ||ng
-||nga.mil
 ||ngensis.com
 ||ngeo.com
 ||nginx.com
@@ -14508,7 +14477,6 @@
 ||njactb.org
 ||njuice.com
 ||nke6.com
-||nko.navy.mil
 ||nl
 ||nl.hideproxy.me
 ||nlfreevpn.com
@@ -14617,7 +14585,6 @@
 ||ns2.name
 ||ns3.name
 ||ns5240.com
-||nsarchive.gwu.edu
 ||nsimg.net
 ||nsstatic.net
 ||nssurge.com
@@ -14969,7 +14936,6 @@
 ||oraclefoundation.org
 ||oracleimg.com
 ||orange
-||orangemail.okstate.edu
 ||orbitera.com
 ||orchid.com
 ||order.shadowsocks.ch
@@ -15901,7 +15867,6 @@
 ||primevideo.info
 ||primevideo.org
 ||primevideo.tv
-||princeton.edu
 ||printeron.com
 ||printersetupsupport.com
 ||printspots.com
@@ -16536,7 +16501,6 @@
 ||repsneakermall.com
 ||repswing.com
 ||res.iqucai.com
-||research.ivc.edu
 ||researchandcare.org
 ||researchgate.net
 ||researchintel.com
@@ -17452,7 +17416,6 @@
 ||smathis.com
 ||smchbooks.com
 ||smhric.org
-||smith.edu
 ||smoqueed.com
 ||smpte.org
 ||smt.live
@@ -17484,7 +17447,6 @@
 ||snowpear.com
 ||soasta-dswb.com
 ||sobees.com
-||soc.mil
 ||socalbmw.com
 ||socaltibet.org
 ||soccermatchpass.com
@@ -17816,7 +17778,6 @@
 ||standup4tibet.org
 ||standupfortibet.org
 ||standwithhk.org
-||stanford.edu
 ||staples
 ||star-telegram.com
 ||starbucks.com
@@ -18374,6 +18335,7 @@
 ||terapeak.com
 ||terapeak.info
 ||teraperk.com
+||termius.com
 ||terra
 ||terraclicks.com
 ||terraform.io
@@ -19316,8 +19278,6 @@
 ||ucanews.com
 ||ucdavis.pubs.curricunet.com
 ||ucdc1998.org
-||uchicago.edu
-||ucla.edu
 ||uclaut.net
 ||uconnect
 ||udacity.com
@@ -19366,11 +19326,9 @@
 ||um
 ||um.domain888.pw
 ||um.freepac.pw
-||umass.edu
 ||umblr.com
 ||umei.cc
 ||umei.fun
-||umich.edu
 ||ummah.com
 ||umyaquene.gq
 ||un.org
@@ -19416,7 +19374,6 @@
 ||unirule.cloud
 ||unitedsocialpress.com
 ||unitefortibet.org
-||unitrans.ucdavis.edu
 ||unity.com
 ||unity3d.com
 ||universalorlando.com
@@ -19513,17 +19470,13 @@
 ||users.skynet.be
 ||usersfiles.com
 ||usertrust.com
-||usfk.mil
 ||usfuli.co
 ||usgfx.com
 ||ushahidi.com
 ||ushuarencity.com
 ||ushuarencity.echainhost.com
-||usma.edu
 ||usmagazine.com
-||usmc.mil
 ||usmgtcg.ning.com
-||usno.navy.mil
 ||usocctn.com
 ||ustibetcommittee.org
 ||ustream.tv
@@ -19857,7 +19810,6 @@
 ||vipshoes2.com
 ||virbuzz.com
 ||virgin
-||virginia.edu
 ||virsto.com
 ||virsto.net
 ||virtuagirl2.com
@@ -20467,8 +20419,6 @@
 ||weblagu.com
 ||webmail.fix-well.com
 ||webmail.mtco.com
-||webmail.oakland.edu
-||webmail.otis.edu
 ||webmasta.org
 ||webmoneyinfo.com
 ||webmproject.org
@@ -20532,7 +20482,6 @@
 ||westernshugdensociety.org
 ||westernwolves.com
 ||westkit.net
-||westpoint.edu
 ||westword.com
 ||wetinim.com
 ||wetplace.com
@@ -20580,7 +20529,6 @@
 ||whispertalks.com
 ||white-plus.net
 ||whitebear.freebearblog.org
-||whitmail.whitman.edu
 ||who.int
 ||whodns.xyz
 ||whoer.net
@@ -21565,7 +21513,6 @@
 ||www.boyi188.com
 ||www.brandibelle.com
 ||www.breakwall.org
-||www.brenau.edu
 ||www.browsercam.com
 ||www.brsbox.com
 ||www.bryanboy.com
@@ -21733,7 +21680,6 @@
 ||www.copangroup.com
 ||www.corbacho.net
 ||www.corbisimages.com
-||www.cornerstone.edu
 ||www.cosmicarmchair.com
 ||www.counterpunch.org
 ||www.couwe.com
@@ -21777,7 +21723,6 @@
 ||www.dailytime.gq
 ||www.dajinyule.vip
 ||www.dakashangche.net
-||www.dalailama.umn.edu
 ||www.dalailamanola.com
 ||www.dalailamasandiego.org
 ||www.danejones.com
@@ -22737,7 +22682,6 @@
 ||www.navweaps.com
 ||www.nbclearn.com
 ||www.nbty-china.com
-||www.ncat.edu
 ||www.ne88.net
 ||www.neihan8.com
 ||www.neopets.com
@@ -23025,7 +22969,6 @@
 ||www.runnerinn.com
 ||www.runox.biz
 ||www.runox.net
-||www.rutgers.edu
 ||www.rutor.org
 ||www.rwsentosa.com
 ||www.ry1002.com
@@ -23740,7 +23683,6 @@
 ||www.zz323.com
 ||www.zz727.com
 ||www.zzwav.com
-||www1.american.edu
 ||www1.biz
 ||www2.hele888.com
 ||www2.ohchr.org
@@ -24217,7 +24159,6 @@
 ||yahoosportsbook.com
 ||yak.comxa.com
 ||yakbutterblues.com
-||yale.edu
 ||yam.com
 ||yamaxun
 ||yamaxun.com
