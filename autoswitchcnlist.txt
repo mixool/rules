@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-02-10 22:28:25.1612996105 +0000 UTC
+! Last Modified: 2021-02-11 22:28:33.1613082513 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -13499,7 +13499,6 @@
 ||buffst.com
 ||bug200.com
 ||bughd.com
-||bugjia.net
 ||bugku.com
 ||bugnull.com
 ||bugscan.net
@@ -28997,6 +28996,7 @@
 ||heibaimanhua.com
 ||heicha.com
 ||heicheng51.com
+||heidiankeji.com
 ||heidiseo.com
 ||heigaga.com
 ||heiguang.com
@@ -38090,6 +38090,7 @@
 ||lagouevents.com
 ||lagoujobs.com
 ||lagowang.com
+||lahuashanbx.com
 ||lai-ai.com
 ||laibxw.com
 ||laichou.com
@@ -41429,7 +41430,6 @@
 ||massclouds.com
 ||masscrunch.com
 ||masterlab.vip
-||masterlifewh.com
 ||mastersay.com
 ||mastersim123.com
 ||mastertimes.net
@@ -56026,7 +56026,6 @@
 ||tianshiyiyuan.com
 ||tianshouzhi.com
 ||tianshuge.com
-||tianshuosujiao.com
 ||tiansin.com
 ||tiantailaw.com
 ||tiantang520.com
@@ -63156,6 +63155,7 @@
 ||xiaoshuotxt.org
 ||xiaoshuoyd.com
 ||xiaoshuozu.com
+||xiaoshuwu.vip
 ||xiaoshuxiong.com
 ||xiaositv.com
 ||xiaoso.net
@@ -64517,6 +64517,7 @@
 ||xuanwu88.com
 ||xuanwuhuijeushiwu.com
 ||xuanwumobile.com
+||xuanxiu.cc
 ||xuanxuan.com
 ||xuanxuangame.com
 ||xuanxuantemai.com
@@ -66678,6 +66679,7 @@
 ||yoozhe.com
 ||yopai.com
 ||yoperp.com
+||yopoint.cc
 ||yopoint.com
 ||yoptech.com
 ||yopwefun.com
