@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-02-11 22:28:33.1613082513 +0000 UTC
+! Last Modified: 2021-02-12 22:28:23.1613168903 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -11665,6 +11665,7 @@
 ||johntool.com
 ||johren.net
 ||joinbl.xyz
+||joinclubhouse.com
 ||joinmaidez.com
 ||joinmastodon.org
 ||jojofx.com

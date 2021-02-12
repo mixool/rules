@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-02-11 22:28:33.1613082513 +0000 UTC
+! Last Modified: 2021-02-12 22:28:22.1613168902 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -55905,6 +55905,7 @@
 ||thtfpc.com
 ||thtxzyz.com
 ||thumedialab.com
+||thundercdn.com
 ||thundercdn.net
 ||thunderflash.net
 ||thunderobot.com
