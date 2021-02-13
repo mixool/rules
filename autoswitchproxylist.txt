@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-02-12 22:28:23.1613168903 +0000 UTC
+! Last Modified: 2021-02-13 22:27:47.1613255267 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -13081,6 +13081,7 @@
 ||medium.com
 ||medium.systems
 ||medley.com
+||medrxiv.org
 ||meebo.com
 ||meet.new
 ||meetav.com
@@ -24676,6 +24677,7 @@
 ||zengjinyan.org
 ||zenguard.org
 ||zenmate.com
+||zenodo.org
 ||zensur.freerk.com
 ||zentekinternational.com
 ||zenvpn.net
