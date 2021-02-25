@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-02-24 22:26:10.1614205570 +0000 UTC
+! Last Modified: 2021-02-25 22:28:59.1614292139 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -1500,6 +1500,7 @@
 ||13ejob.com
 ||13fuwu.com
 ||13gm.com
+||13hangpifa.com
 ||13ie.com
 ||13mobi.com
 ||13ww.net
@@ -4517,6 +4518,7 @@
 ||51haojob.com
 ||51hcb.com
 ||51hch.com
+||51hcie.com
 ||51hcw.com
 ||51hei.com
 ||51hejia.com
@@ -5746,6 +5748,7 @@
 ||5iflying.com
 ||5ifund.com
 ||5ifxw.com
+||5igen.com
 ||5igupiao.com
 ||5ihse.com
 ||5ijuyi.com
@@ -8003,6 +8006,7 @@
 ||988640.com
 ||988svip.com
 ||9898c.com
+||98a.ink
 ||98ep.com
 ||98fp.com
 ||98jx.com
@@ -8218,6 +8222,7 @@
 ||9inx.com
 ||9iphp.com
 ||9ishe.com
+||9ixiangsheng.com
 ||9iyoo.com
 ||9j9y.com
 ||9ji.com
@@ -13187,6 +13192,7 @@
 ||bopian.com
 ||boqii.com
 ||boqiicdn.com
+||boquxinxi.com
 ||boraid.org
 ||borlonclan.com
 ||borninsummer.com
@@ -17535,6 +17541,7 @@
 ||cnluqiao.com
 ||cnmanhua.com
 ||cnmattson.com
+||cnmcom.com
 ||cnmdy.com
 ||cnmediae.com
 ||cnmeifa.com
@@ -20167,6 +20174,7 @@
 ||dfhtjn.com
 ||dfkcgs.com
 ||dfkhgj.com
+||dfmc.com
 ||dfmcastrol.com
 ||dfmingya.com
 ||dfpk.com
@@ -27536,6 +27544,7 @@
 ||gyzy.com
 ||gyzyfw.com
 ||gz-cmc.com
+||gz-cube.com
 ||gz-data.com
 ||gz-forever.com
 ||gz-gz.com
@@ -29482,6 +29491,7 @@
 ||hinpy.com
 ||hiogadw.bar
 ||hiopensource.com
+||hioug.com
 ||hioyun.com
 ||hipandashop.com
 ||hiparking.com
@@ -29770,6 +29780,7 @@
 ||hncsmjzs.com
 ||hncsmtr.com
 ||hncsvod.com
+||hndbs.com
 ||hndca.com
 ||hndnews.com
 ||hndpx.com
@@ -30243,7 +30254,6 @@
 ||hqwx.com
 ||hqwy.com
 ||hqyj.com
-||hqylgc.com
 ||hqys.net
 ||hqytgyh.com
 ||hqyun.com
@@ -30465,6 +30475,7 @@
 ||httpsbaidu.com
 ||hturl.cc
 ||htuwenming.com
+||htv009.com
 ||htwed.com
 ||htxxpx.com
 ||htxyin.com
@@ -34596,6 +34607,7 @@
 ||jietu365.com
 ||jietuosh.com
 ||jietusoft.com
+||jiexi.la
 ||jiexi.link
 ||jiexi8.com
 ||jiexiyouxuan.com
@@ -37495,6 +37507,7 @@
 ||kr126.com
 ||kr3360.com
 ||krahag.com
+||krbamboo.com
 ||krdem.com
 ||krdlw.com
 ||krdrama.com
@@ -37734,6 +37747,7 @@
 ||kubikeji.com
 ||kubiops.com
 ||kubo-360-tudou.com
+||kubozy-cdn-baidu.com
 ||kubozy-youku-163-aiqi.com
 ||kubozy-youku-163.com
 ||kuche.com
@@ -37956,6 +37970,7 @@
 ||kylienet.com
 ||kyligence.io
 ||kylin-os.com
+||kylinlot.com
 ||kylinmobi.com
 ||kylinos.com
 ||kylinpet.com
@@ -38932,6 +38947,7 @@
 ||lhdyfc.com
 ||lhflh.com
 ||lhggjd.org
+||lhh.la
 ||lhidc.net
 ||lhlqw.com
 ||lhm8.com
@@ -42886,6 +42902,7 @@
 ||moneygz.com
 ||moneyslow.com
 ||mongochina.com
+||monidai.com
 ||monizl.com
 ||monph.com
 ||monseng.com
@@ -44846,6 +44863,7 @@
 ||ntqcct.com
 ||ntrcb.com
 ||ntrdjsjl.com
+||ntryjd.net
 ||nttui.com
 ||ntuiw.cc
 ||ntuiw.com
@@ -47672,7 +47690,6 @@
 ||qftouch.com
 ||qfun.com
 ||qfwwj.com
-||qfwy8.com
 ||qg.net
 ||qg108.com
 ||qgbzyzl.com
@@ -47799,6 +47816,7 @@
 ||qianggen.com
 ||qianggongzhang.com
 ||qianggou5.com
+||qiangidc.vip
 ||qiangka.com
 ||qianglihuifu.com
 ||qiangmi.com
@@ -49927,6 +49945,7 @@
 ||royotech.com
 ||rp-pet.com
 ||rpg99.com
+||rpgmoba.com
 ||rpo5156.com
 ||rpsh.net
 ||rpwtcn.com
@@ -52813,6 +52832,7 @@
 ||sjzz.cc
 ||sjzzimu.com
 ||sk1999.com
+||sk2game.com
 ||skatehere.com
 ||skcto.com
 ||skdlabs.com
@@ -56036,6 +56056,7 @@
 ||tibetinfor.com
 ||ticket800.com
 ||ticketdashi.com
+||ticketmars.com
 ||ticstore.com
 ||tictalk.com
 ||tictalk.vip
@@ -60221,6 +60242,7 @@
 ||wenjuan.link
 ||wenjuan.ltd
 ||wenjuan.net
+||wenjuan.pub
 ||wenjuanba.com
 ||wenjuanshow.com
 ||wenjunjiang.win
