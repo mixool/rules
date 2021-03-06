@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-03-05 22:29:56.1614983396 +0000 UTC
+! Last Modified: 2021-03-06 22:29:21.1615069761 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -729,7 +729,6 @@
 ||086jx.com
 ||086kd.com
 ||086mai.com
-||086xinhua.com
 ||08817k.com
 ||08817y.com
 ||08817z.com
@@ -3790,7 +3789,6 @@
 ||3mtw.com
 ||3n110.com
 ||3nian.com
-||3pk2.com
 ||3png.com
 ||3poo.com
 ||3q2008.com
@@ -6840,7 +6838,6 @@
 ||802203.com
 ||8038.pw
 ||8044445.com
-||806699a.com
 ||80710.com
 ||80714.com
 ||80800.vip
@@ -8389,7 +8386,6 @@
 ||abcve.com
 ||abcxs.com
 ||abcydia.com
-||abcyzf.com
 ||abczw.com
 ||abdstem.com
 ||abe-tech.com
@@ -10585,7 +10581,6 @@
 ||atzjg.net
 ||atzlinux.com
 ||atzuche.com
-||au54150.icu
 ||auak.com
 ||aucanlink.com
 ||aucheng.cc
@@ -13467,6 +13462,7 @@
 ||buguangdeng.com
 ||bugucn.com
 ||bugutime.com
+||bugwz.com
 ||bugxia.com
 ||buhuiwan.com
 ||buhuyo.com
@@ -22087,7 +22083,6 @@
 ||e6816.com
 ||e68cname.com
 ||e6hd.com
-||e7560.net
 ||e7890.com
 ||e7e.co
 ||e7e6.net
@@ -26026,7 +26021,6 @@
 ||geyo.com
 ||geyoukj.com
 ||gezhixq.net
-||gezhongshu.com
 ||gezida.com
 ||gezila.com
 ||gf-funds.com
@@ -27106,6 +27100,7 @@
 ||guardrailchina.com
 ||guatian.com
 ||guazhuan.com
+||guazi-apps.com
 ||guazi.com
 ||guazipai.com
 ||guazistatic.com
@@ -28530,6 +28525,7 @@
 ||hbha027.com
 ||hbhande.com
 ||hbhaolinju.com
+||hbhcdn.com
 ||hbhdhd.com
 ||hbhm.net
 ||hbhtcm.com
@@ -29183,7 +29179,6 @@
 ||hfbaogao.com
 ||hfbeta.com
 ||hfbz.com
-||hfccri.com
 ||hfcn.cc
 ||hfcyh.com
 ||hffund.com
@@ -45745,6 +45740,7 @@
 ||p4vip.com
 ||p512.com
 ||p5w.net
+||p8games.com
 ||p99998888.com
 ||pa18.com
 ||pa1pa.com
@@ -49751,7 +49747,6 @@
 ||romhui.com
 ||romjd.com
 ||romleyuan.com
-||romman.net
 ||romphone.net
 ||romwang.com
 ||romzhijia.net
@@ -51447,6 +51442,7 @@
 ||shellsec.com
 ||shelter-china.com
 ||shelterdome.net
+||sheluyou.com
 ||shelwee.com
 ||shen-hua.com
 ||shen1shen.com
@@ -59574,6 +59570,7 @@
 ||wdaveh5game.com
 ||wddcn.com
 ||wddream.com
+||wddun.com
 ||wdfangyi.com
 ||wdfok.com
 ||wdfxw.net
@@ -61775,6 +61772,7 @@
 ||wvshare.com
 ||ww2bbs.net
 ||wwaaffxx.com
+||wwc-blog.com
 ||wwe008.com
 ||wwenglish.com
 ||wwenglish.org
@@ -63286,6 +63284,7 @@
 ||xinfushe.com
 ||xing-yan.com
 ||xing008.com
+||xing73.com
 ||xingaiming.com
 ||xingames.com
 ||xingbangip.com
@@ -66340,7 +66339,6 @@
 ||ynshijian.com
 ||ynsjg.com
 ||ynteng.com
-||yntlgs.com
 ||ynwin.com
 ||ynxr.com
 ||ynxxb.com

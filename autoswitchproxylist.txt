@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-03-05 22:29:56.1614983396 +0000 UTC
+! Last Modified: 2021-03-06 22:29:21.1615069761 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -5959,6 +5959,7 @@
 ||creditpay.myfxcm.com
 ||creeklandmiddle.org
 ||cricketcountry.com
+||crisp.chat
 ||cristyli.com
 ||crit-staging.com
 ||crittercism.com
