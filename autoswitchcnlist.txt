@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-03-07 22:29:35.1615156175 +0000 UTC
+! Last Modified: 2021-03-08 22:29:58.1615242598 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -13045,6 +13045,7 @@
 ||bojun-import.com
 ||bojuwang.com
 ||bokao2o.com
+||bokcms.com
 ||boke.com
 ||boke112.com
 ||boke8.net
@@ -25408,7 +25409,6 @@
 ||galgame.net
 ||galgamez.cc
 ||galgamez.com
-||galgamezd.com
 ||galiaoba.com
 ||gallopgazelle.com
 ||galsun.com
@@ -43282,7 +43282,6 @@
 ||mxnxs.com
 ||mxpkw.com
 ||mxqe.com
-||mxqjzg.com
 ||mxria.com
 ||mxruv.com
 ||mxs.com
@@ -48485,7 +48484,6 @@
 ||qqkw.net
 ||qqleju.com
 ||qqlin.net
-||qqlinux.com
 ||qqm98.com
 ||qqma.com
 ||qqmail.com
@@ -65242,7 +65240,6 @@
 ||yduav.com
 ||yduedu.com
 ||ydui.org
-||yduoo.com
 ||ydvip00ap.com
 ||ydvip00as.com
 ||ydx2.com
