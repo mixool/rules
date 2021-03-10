@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-03-09 22:31:47.1615329107 +0000 UTC
+! Last Modified: 2021-03-10 22:30:08.1615415408 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -16392,10 +16392,12 @@
 ||pwnz.org
 ||pximg.net
 ||pxt.io
+||pycon.org
 ||pyhapp.com
 ||pyntsquare.com
 ||pyorrhoea.org
 ||pypa.io
+||pypi.io
 ||pypi.org
 ||pypl.com
 ||pypl.info
