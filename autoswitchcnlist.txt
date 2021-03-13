@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-03-12 22:30:41.1615588241 +0000 UTC
+! Last Modified: 2021-03-13 22:29:52.1615674592 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -2241,7 +2241,6 @@
 ||1pm2.com
 ||1ppt.com
 ||1px.wang
-||1pxs.com
 ||1q2q.com
 ||1qfa.com
 ||1qianbao.com
@@ -2516,6 +2515,7 @@
 ||222bz.com
 ||222i.net
 ||223.so
+||22332008.com
 ||22333.fun
 ||2239.com
 ||224.com
@@ -7098,7 +7098,6 @@
 ||87ma.com
 ||87money.com
 ||87pk.com
-||87xue.com
 ||87yy.com
 ||88-z.com
 ||88.com
@@ -8166,7 +8165,6 @@
 ||9he.com
 ||9host.org
 ||9ht.com
-||9i5c.com
 ||9icode.net
 ||9icy.com
 ||9idudu.com
@@ -8532,6 +8530,7 @@
 ||acumoxj.com
 ||acuworld.net
 ||acwifi.net
+||acwing.com
 ||acxiomapac.com
 ||acznw.com
 ||ad-cn.net
@@ -16654,7 +16653,6 @@
 ||ciliba.buzz
 ||ciliba.life
 ||ciliba.pro
-||cilidao.org
 ||ciliguanjia.cyou
 ||cilimao.me
 ||cilin.org
@@ -19157,7 +19155,6 @@
 ||d7vg.com
 ||d8th.com
 ||d8tv.com
-||d9soft.com
 ||da-qian.com
 ||da-quan.net
 ||da88.net
@@ -19817,7 +19814,6 @@
 ||ddimg.mobi
 ||ddimg.net
 ||dding.net
-||ddiworld.com
 ||ddjjzz.com
 ||ddjk.com
 ||ddk-alink.com
@@ -20346,7 +20342,6 @@
 ||dianxs.com
 ||dianyingbars.com
 ||dianyingjie.com
-||dianyingonline.com
 ||dianyingshow.com
 ||dianyingwenxue.com
 ||dianyinjidiao.com
@@ -21441,7 +21436,6 @@
 ||drgou.com
 ||drhudong.com
 ||drice.cc
-||drinbank.com
 ||drip.im
 ||dripcar.com
 ||driverdevelop.com
@@ -21702,6 +21696,7 @@
 ||duotegame.com
 ||duotin.com
 ||duotoo.com
+||duotoupiao.com
 ||duotuwang.com
 ||duouoo.com
 ||duowan.com
@@ -21905,6 +21900,7 @@
 ||dytt789.com
 ||dytt8.com
 ||dytt8.net
+||dyuzz.club
 ||dyw0.com
 ||dyxia.com
 ||dyxldjy.com
@@ -21915,6 +21911,7 @@
 ||dyxz.la
 ||dyydy.com
 ||dyymwy.com
+||dyynong.net
 ||dyys.com
 ||dyysoft.net
 ||dyzxw.org
@@ -23364,7 +23361,6 @@
 ||exiqu.com
 ||exmailqq.com
 ||exmrw.com
-||exness-chinese.com
 ||exnpk.com
 ||exntech.com
 ||exo-mk.com
@@ -23701,7 +23697,6 @@
 ||fangxinmai.com
 ||fangxinzhuomian.com
 ||fangxuela.com
-||fangyanzhijia.com
 ||fangyb.com
 ||fangyi.com
 ||fangying.tv
@@ -24243,7 +24238,6 @@
 ||fenxiaoba.net
 ||fenxiuyun.com
 ||fenxiyi.com
-||fenxs.com
 ||fenxuekeji.com
 ||fenxw.com
 ||fenying.net
@@ -25267,6 +25261,7 @@
 ||fyfch.com
 ||fygame.com
 ||fygdrs.com
+||fygsoft.com
 ||fyigou.com
 ||fyjsz.net
 ||fyktaqm.com
@@ -25871,6 +25866,7 @@
 ||geekluo.com
 ||geekmaker.com
 ||geekman.vip
+||geekmar.xyz
 ||geekniu.com
 ||geekori.com
 ||geekotg.com
@@ -28009,6 +28005,7 @@
 ||hanghangcha.com
 ||hangjiayun.com
 ||hangkong.com
+||hangmeishangmao.com
 ||hangmiwang.com
 ||hangomart.com
 ||hangowa.com
@@ -34277,7 +34274,6 @@
 ||jiangshi99.com
 ||jiangsugqt.org
 ||jianguo.tv
-||jianguopuzi.com
 ||jianguoyun.com
 ||jiangwang.net
 ||jiangweishan.com
@@ -35192,6 +35188,7 @@
 ||jlforging.com
 ||jlfzb.com
 ||jlg86.com
+||jlhuaze.com
 ||jljbbs.com
 ||jljgdj.org
 ||jlkj.cc
@@ -37107,7 +37104,6 @@
 ||kk30.com
 ||kk3g.net
 ||kk50.com
-||kk520.com
 ||kk7b.com
 ||kkapp.com
 ||kkcache.com
@@ -38926,6 +38922,7 @@
 ||lianshangbing.com
 ||lianshijie.com
 ||liansuo.com
+||liantai.cc
 ||liantianhong.com
 ||liantu.com
 ||liantuobank.com
@@ -39931,6 +39928,7 @@
 ||longlongweb.com
 ||longmaosoft.com
 ||longmeng.com
+||longmenmingche.com
 ||longmiao.wang
 ||longmotto.com
 ||longmushengwu.com
@@ -41641,7 +41639,6 @@
 ||meimeixiazai.com
 ||meimi.cc
 ||meimingteng.com
-||meimotuan.com
 ||meinv.com
 ||meip0.me
 ||meip4.me
@@ -42498,6 +42495,7 @@
 ||mmbbx.com
 ||mmbest.com
 ||mmbjq.com
+||mmbread.com
 ||mmc-data.com
 ||mmcxu.com
 ||mmdocx.com
@@ -43004,7 +43002,6 @@
 ||mrjjxw.com
 ||mrkevin.net
 ||mrm1336.com
-||mrmodern.com
 ||mro9.com
 ||mrpyq.com
 ||mrqf.com
@@ -43603,6 +43600,7 @@
 ||mzuan.com
 ||mzwu.com
 ||mzwxzz.com
+||mzxwz.com
 ||mzy5200.com
 ||mzyfz.com
 ||mzyun.ren
@@ -44265,6 +44263,7 @@
 ||ninecoign.com
 ||ninepart.com
 ||nineroad.com
+||ninesix.cc
 ||ninestargroup.com
 ||ningbo-airport.com
 ||ningbocarnival.com
@@ -44463,6 +44462,7 @@
 ||nlypx.com
 ||nlzpy.com
 ||nm8yx.com
+||nmbgjx.com
 ||nmet168.com
 ||nmgd.com
 ||nmgdjkj.com
@@ -49397,6 +49397,7 @@
 ||renderbus.com
 ||renderincloud.com
 ||rendiyu.com
+||rendna.com
 ||renfas.com
 ||renhence.com
 ||renhengshiye.com
@@ -54130,6 +54131,7 @@
 ||supet.com
 ||supfast.net
 ||supfree.net
+||supmeter.com
 ||supmil.com
 ||supmil.net
 ||supoin.com
@@ -54345,6 +54347,7 @@
 ||sxsjgy.com
 ||sxslnews.com
 ||sxsoft.com
+||sxsolid.com
 ||sxszw.net
 ||sxtppm.com
 ||sxtvs.com
@@ -54747,6 +54750,7 @@
 ||szxiangjun.com
 ||szxihu.com
 ||szxinjiaxin.com
+||szxinyixin.com
 ||szxlga.com
 ||szxqsx.com
 ||szxsdmy.com
@@ -57125,6 +57129,7 @@
 ||tuling123.com
 ||tulinggame.com
 ||tulingtec.com
+||tuliren.com
 ||tuliu.com
 ||tumajewelry.com
 ||tumanyi.com
@@ -57322,6 +57327,7 @@
 ||tx5d.com
 ||txbapp.com
 ||txbimg.com
+||txcbwgg.com
 ||txcdns.com
 ||txdai.com
 ||txds888.com
@@ -57510,7 +57516,6 @@
 ||u6u.com
 ||u77.com
 ||u78.com
-||u7dy.com
 ||u7u9.com
 ||u8sy.com
 ||u8yx.com
@@ -57906,6 +57911,7 @@
 ||unixfbi.com
 ||unixhot.com
 ||unixidc.com
+||unixso.com
 ||unizai.com
 ||unjeep.com
 ||unjmz.com
@@ -60062,6 +60068,7 @@
 ||wendian.com
 ||wendns.com
 ||wendoc.com
+||wendster.com
 ||wendu.com
 ||wenduedu.com
 ||wendumao.com
@@ -62934,7 +62941,6 @@
 ||xiaositv.com
 ||xiaoso.net
 ||xiaoss.net
-||xiaosuoge.com
 ||xiaot.com
 ||xiaota.com
 ||xiaotaiyang.org
@@ -63038,7 +63044,6 @@
 ||xiaqunfeng.cc
 ||xiariboke.com
 ||xiarikui.com
-||xiarikui08.com
 ||xiarj.com
 ||xiashu.app
 ||xiashu.la
@@ -64517,7 +64522,6 @@
 ||xuxian.me
 ||xuxueli.com
 ||xuxusheng.com
-||xuyanweivip.com
 ||xuyaokeji.com
 ||xuyi.net
 ||xuyilx.com
@@ -64979,7 +64983,6 @@
 ||yanjingge.com
 ||yanjiushenglw.com
 ||yanjunbo.com
-||yankanshu.cc
 ||yankanshu.net
 ||yankanzw.com
 ||yankay.com
@@ -66776,7 +66779,6 @@
 ||yoxyok.com
 ||yoya.com
 ||yoyi.tv
-||yoyi2010.com
 ||yoyiapp.com
 ||yoyo1900.com
 ||yoyo99.com
@@ -66851,7 +66853,6 @@
 ||yqtxzm.com
 ||yqwyx.xyz
 ||yqxhl.com
-||yqxs.cc
 ||yqyanhong.com
 ||yqzww.la
 ||yqzww.net
@@ -70243,6 +70244,7 @@
 ||zsucai.com
 ||zsufivehos.com
 ||zsujob.com
+||zsvsz.com
 ||zswcn.com
 ||zsweai.club
 ||zsxq.com
@@ -70922,6 +70924,7 @@
 ||full:gsp4-cn.ls.apple.com.edgekey.net
 ||full:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 ||full:gsp5-cn.ls.apple.com
+||full:gsp85-cn-ssl.ls.apple.com
 ||full:gspe11-2-cn-ssl.ls.apple.com
 ||full:gspe12-cn-ssl.ls.apple.com
 ||full:gspe19-cn-ssl.ls.apple.com
