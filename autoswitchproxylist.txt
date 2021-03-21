@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-03-20 22:30:25.1616279425 +0000 UTC
+! Last Modified: 2021-03-21 22:30:45.1616365845 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -19284,6 +19284,8 @@
 ||tickling-videos.com
 ||tickmill.com
 ||tictoc.video
+||tidal.com
+||tidalhifi.com
 ||tidebit.com
 ||tidelift.com
 ||tidex.com
@@ -21342,6 +21344,7 @@
 ||williamlong.jaiku.com
 ||willw.net
 ||wilmar
+||wimpmusic.com
 ||win.hicam.net
 ||win123.ml
 ||win558.com
@@ -25810,10 +25813,12 @@
 ||full:videos-rockstargames-com.akamaized.net
 ||full:vmware.tt.omtrdc.net
 ||full:vod-abematv.akamaized.net
+||full:vod-dash-uk-live.akamaized.net
 ||full:vod-dash-ww-live.akamaized.net
-||full:vod-dash-ww-live.bbcfmt.s.llnwi.net
+||full:vod-hls-uk-live.akamaized.net
+||full:vod-sub-uk-live.akamaized.net
+||full:vod-thumb-uk-live.akamaized.net
 ||full:vod-thumb-ww-live.akamaized.net
-||full:vod-thumb-ww-live.bbcfmt.s.llnwi.net
 ||full:widgets.stripst.com
 ||full:www-cdn.icloud.com.akadns.net
 ||full:zeenews-fonts.s3.amazonaws.com
