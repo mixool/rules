@@ -68,7 +68,7 @@ cat $TMPFILE
 
 function allgeocn(){
     cat <<EOF >$TMPFILE
-# Shadowrocket: $(date +%Y-%m-%d\ %T) Safari中打开 https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb 或 https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb 下载最新CN库,在...中打开”，点击完成导入,建议每月更新一次CN库
+# Shadowrocket: $(date +%Y-%m-%d\ %T)
 [General]
 bypass-system = true
 skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, captive.apple.com
@@ -78,6 +78,8 @@ ipv6 = false
 update-url = https://raw.githubusercontent.com/mixool/rules/main/allgeocn.conf
 
 [Rule]
+RULE-SET,https://cdn.jsdelivr.net/gh/soffchen/GeoIP2-CN@release/surge-ruleset.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/soffchen/GeoIP2-CN/release/surge-ruleset.list,DIRECT
 GEOIP,CN,DIRECT
 FINAL,PROXY
 
