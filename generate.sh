@@ -66,6 +66,32 @@ EOF
 cat $TMPFILE
 }
 
+function allgeocn(){
+    cat <<EOF >$TMPFILE
+# Shadowrocket: $(date +%Y-%m-%d\ %T)
+# 首先 Safari 中打开 https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb 或 https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb 下载链接，Safari 下载完毕后页面下方会提示 “在...中打开”，点击完成导入
+[General]
+bypass-system = true
+skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, captive.apple.com
+bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
+dns-server = system
+ipv6 = false
+update-url = https://raw.githubusercontent.com/mixool/rules/main/allgeocn.conf
+
+[Rule]
+GEOIP,CN,DIRECT
+FINAL,PROXY
+
+[Host]
+localhost = 127.0.0.1
+
+[URL Rewrite]
+^http://(www.)?(g|google).cn https://www.google.com 302
+EOF
+
+cat $TMPFILE
+}
+
 function cnlist_autoswitch(){
     cat <<EOF >$TMPFILE
 [AutoProxy]
@@ -95,6 +121,9 @@ cat $TMPFILE
 case $1 in
     allrocket)
         allrocket
+        ;;
+    allgeocn)
+        allgeocn
         ;;
     cnlist_autoswitch)
         cnlist_autoswitch
