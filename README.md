@@ -11,4 +11,4 @@
 #### thanks:  
 * [domain-list-community](https://github.com/v2fly/domain-list-community)  
 * [Loyalsoldier](https://github.com/Loyalsoldier/v2ray-rules-dat)  
-* [Hackl0us](https://github.com/Hackl0us/GeoIP2-CN)
+* [soffchen/GeoIP2-CN](https://github.com/soffchen/GeoIP2-CN)
