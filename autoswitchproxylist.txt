@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-03-31 13:13:10.1617196390 +0000 UTC
+! Last Modified: 2021-03-31 22:57:05.1617231425 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -10086,6 +10086,7 @@
 ||hbogo.com
 ||hbogoasia.com
 ||hbomax.com
+||hbomaxcdn.com
 ||hbonow.com
 ||hbxnets.com
 ||hcaptcha.com
@@ -14569,6 +14570,16 @@
 ||netflix
 ||netflix.com
 ||netflix.net
+||netflixdnstest1.com
+||netflixdnstest10.com
+||netflixdnstest2.com
+||netflixdnstest3.com
+||netflixdnstest4.com
+||netflixdnstest5.com
+||netflixdnstest6.com
+||netflixdnstest7.com
+||netflixdnstest8.com
+||netflixdnstest9.com
 ||netflixinvestor.com
 ||netflixtechblog.com
 ||netlify.com
