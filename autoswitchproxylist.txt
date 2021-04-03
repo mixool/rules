@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-04-02 22:34:04.1617402844 +0000 UTC
+! Last Modified: 2021-04-03 22:36:28.1617489388 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -15205,6 +15205,7 @@
 ||npmjs.com
 ||npmjs.org
 ||npnt.me
+||npr.org
 ||npsboost.com
 ||nqma.net
 ||nr
