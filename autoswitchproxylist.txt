@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-04-06 22:32:06.1617748326 +0000 UTC
+! Last Modified: 2021-04-07 22:34:17.1617834857 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -26154,6 +26154,7 @@
 ||full:steamstore-a.akamaihd.net
 ||full:steamusercontent-a.akamaihd.net
 ||full:steamuserimages-a.akamaihd.net
+||full:steamvideo-a.akamaihd.net
 ||full:tesla-cdn.thron.com
 ||full:ubisoft-orbit-savegames.s3.amazonaws.com
 ||full:ubisoft-uplay-savegames.s3.amazonaws.com
