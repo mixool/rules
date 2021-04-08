@@ -34,6 +34,7 @@
 .full:pki-goog.l.google.com
 .full:recaptcha.net
 .full:redirector.gvt1.com
+.full:regioninfo-pa.googleapis.com
 .full:safebrowsing-cache.google.com
 .full:safebrowsing.googleapis.com
 .full:settings.crashlytics.com
