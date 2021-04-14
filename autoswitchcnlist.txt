@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-04-13 22:32:50.1618353170 +0000 UTC
+! Last Modified: 2021-04-14 22:32:08.1618439528 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -70446,7 +70446,6 @@
 ||full:app-measurement.com
 ||full:appldnld.apple.com
 ||full:appldnld.g.aaplimg.com
-||full:apps.apple.com
 ||full:apps.mzstatic.com
 ||full:apptrailers.itunes.apple.com
 ||full:bag.itunes.apple.com
