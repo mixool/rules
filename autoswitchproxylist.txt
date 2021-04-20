@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-04-19 22:34:27.1618871667 +0000 UTC
+! Last Modified: 2021-04-20 22:35:05.1618958105 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -493,7 +493,6 @@
 ||22966.com
 ||22gg940.com
 ||22jinsha.com
-||22leto.com
 ||22letou.com
 ||233.t28.net
 ||2333666.xyz
@@ -668,6 +667,7 @@
 ||36pp.net
 ||36rain.com
 ||36sss.net
+||36tou.com
 ||36tt.net
 ||36vv.net
 ||37.serveftp.com
@@ -1058,7 +1058,7 @@
 ||669d.tv
 ||66dofan.com
 ||66go.vip
-||66let.com
+||66leto.com
 ||66van.com
 ||677324.com
 ||678666365.com
@@ -1069,7 +1069,6 @@
 ||6888zr.com
 ||68db.com
 ||68letou.com
-||68tou.com
 ||6966699.com
 ||69990f.com
 ||699aa.net
@@ -1083,7 +1082,6 @@
 ||6f1111.com
 ||6f3333.com
 ||6f9999.com
-||6hccbb.com
 ||6hch.com
 ||6j6.top
 ||6park.com
@@ -4459,7 +4457,6 @@
 ||btunnel.com
 ||btxtv.com
 ||btxvxv.com
-||bu33.net
 ||bu87.com
 ||bubendorf.net
 ||buc1.racingvpn.com
@@ -7427,7 +7424,6 @@
 ||er
 ||erabaru.net
 ||erepublik.com
-||ericslezak.com
 ||ericsson
 ||erights.net
 ||erikaochsner.ch
@@ -9596,7 +9592,6 @@
 ||gruppuso.net
 ||gs
 ||gs-discuss.com
-||gs.jf3377.com
 ||gs01.dsn02.co
 ||gs108.com
 ||gscanada.info
@@ -11215,7 +11210,6 @@
 ||is-an-engineer.com
 ||is-into-anime.com
 ||is-uberleet.com
-||is-very-evil.org
 ||is-very-good.org
 ||is-very-sweet.org
 ||isa-geek.com
@@ -12162,7 +12156,6 @@
 ||le5888.com
 ||le787.com
 ||le881.com
-||le98.net
 ||le989.com
 ||le995.com
 ||leadpages.net
@@ -12221,7 +12214,6 @@
 ||lesgrandsmoyens.org
 ||lesmao.com
 ||lesoir.be
-||let282.com
 ||let289.com
 ||let62.com
 ||let66.net
@@ -12230,6 +12222,7 @@
 ||letou-bet.com
 ||letou.com
 ||letou.link
+||letou1.com
 ||letou114.net
 ||letou118.net
 ||letou123.com
@@ -12441,6 +12434,7 @@
 ||llnwd.net
 ||llnwi.net
 ||llss.me
+||llxtv.com
 ||lm.1731788.com
 ||lmb.betway118.com
 ||lmt.jbo8.com
@@ -13513,7 +13507,6 @@
 ||mokagames.com
 ||mol.im
 ||molesports.com
-||moligirl.com
 ||molihua.org
 ||momentumms.com
 ||mommyfucktube.com
@@ -15670,7 +15663,6 @@
 ||pjdc6633.com
 ||pjdc6688.com
 ||pjdc8000.com
-||pjdc8833.com
 ||pjdc8866.com
 ||pjdc8877.com
 ||pjdc9900.com
@@ -16253,7 +16245,6 @@
 ||qqjlb.com
 ||qqq26.net
 ||qqq578.com
-||qqqxv.com
 ||qr0077.com
 ||qstatus.com
 ||qt-project.org
@@ -17774,7 +17765,6 @@
 ||spotifyforbrands.com
 ||spotifyjobs.com
 ||spotoption.com
-||sprashivalka.com
 ||spraynwash.com
 ||spreadprivacy.com
 ||spring4u.info
@@ -20509,7 +20499,6 @@
 ||washingtondcbmw.com
 ||washingtonpost.com
 ||washingtontibet.org
-||washintonpost.com
 ||wataru.moe
 ||watch-ebay.org
 ||watch8x.com
@@ -20650,7 +20639,6 @@
 ||weir
 ||weirdhentai.com
 ||weisuo.ws
-||weiweicam.com
 ||weiyuksj.com
 ||wellplacedpixels.com
 ||welovecock.com
@@ -21154,7 +21142,6 @@
 ||www.170525.com
 ||www.174sihu.com
 ||www.175sihu.com
-||www.176iii.net
 ||www.178yl99.com
 ||www.18123cpz.com
 ||www.18123xz.com
@@ -22238,7 +22225,6 @@
 ||www.fun712.com
 ||www.fun767.com
 ||www.fun78.com
-||www.fun8003.com
 ||www.fun803.com
 ||www.fun809.com
 ||www.fun88-i78.com
@@ -22734,6 +22720,7 @@
 ||www.lawlove.org
 ||www.lax71.com
 ||www.lcg.com
+||www.le98.net
 ||www.learningandteachinghub.com
 ||www.learnstreet.com
 ||www.lebo98.com
@@ -22744,7 +22731,6 @@
 ||www.let89.com
 ||www.let98.net
 ||www.letou01.com
-||www.letou1.com
 ||www.letou6677.com
 ||www.letou988.com
 ||www.letougames.com
@@ -23360,6 +23346,7 @@
 ||www.suika-ss.com
 ||www.sumarium.com
 ||www.suncity.com
+||www.sundayguardianlive.com
 ||www.sundayroad.net
 ||www.superbookcity.com
 ||www.surveycake.com
@@ -23479,7 +23466,6 @@
 ||www.torrentx.cc
 ||www.totalav.com
 ||www.totallynsfw.com
-||www.tou2008.com
 ||www.toutou.net
 ||www.toutou128.com
 ||www.toutou808.com
@@ -24499,6 +24485,7 @@
 ||yl1177.org
 ||yl2233.org
 ||yl2288.org
+||yl5500.org
 ||yl7.com
 ||yl9936.com
 ||ylg20.com
@@ -24907,7 +24894,6 @@
 ||zyns.com
 ||zyxel.com
 ||zyzc9.com
-||zz383.net
 ||zz757.net
 ||zz811.com
 ||zz9515.pw
