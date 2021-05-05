@@ -78,6 +78,7 @@ ipv6 = false
 update-url = https://raw.githubusercontent.com/mixool/rules/main/allgeocn.conf
 
 [Rule]
+DOMAIN-SET,https://raw.githubusercontent.com/mixool/rules/main/domainset/direct.list,DIRECT
 RULE-SET,https://cdn.jsdelivr.net/gh/soffchen/GeoIP2-CN@release/surge-ruleset.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/soffchen/GeoIP2-CN/release/surge-ruleset.list,DIRECT
 GEOIP,CN,DIRECT
