@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-05-22 22:32:02.1621722722 +0000 UTC
+! Last Modified: 2021-05-23 22:32:11.1621809131 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -13366,6 +13366,7 @@
 ||byshr.com
 ||bysj999.com
 ||bysocket.com
+||bystack.com
 ||bysxfz.com
 ||byte.online
 ||bytebye.com
@@ -40568,6 +40569,8 @@
 ||matongxue.com
 ||matools.com
 ||matouwang.com
+||matpool.com
+||matpool.net
 ||matt33.com
 ||mattge.com
 ||matthewsery.com
