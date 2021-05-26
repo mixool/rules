@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-05-25 22:37:36.1621982256 +0000 UTC
+! Last Modified: 2021-05-26 22:42:07.1622068927 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -31,7 +31,6 @@
 ||00394.net
 ||003store.com
 ||004218.com
-||0044sun.com
 ||004678.com
 ||00518.org
 ||00544.com
@@ -13380,6 +13379,7 @@
 ||bytesfield.com
 ||bytesmanager.com
 ||bytestacks.com
+||bytetos.com
 ||bytexns.com
 ||bytexservice.com
 ||bytrip.com
@@ -18833,7 +18833,6 @@
 ||dadatu5.com
 ||dadatutv.com
 ||dadayou.com
-||dadazw.com
 ||dadclab.com
 ||daddymami.net
 ||dadetong.com
@@ -34597,7 +34596,6 @@
 ||jlforging.com
 ||jlfzb.com
 ||jlg86.com
-||jlhuaze.com
 ||jljbbs.com
 ||jljgdj.org
 ||jlkj.cc
@@ -35156,7 +35154,6 @@
 ||jszgjt.net
 ||jszhaobiao.com
 ||jszikao.org
-||jszjqy.com
 ||jszks.com
 ||jszks.net
 ||jszygs.com
@@ -38467,6 +38464,7 @@
 ||likuli.com
 ||likuso.com
 ||lili1996.com
+||lilifenxiang1.com
 ||lilinwei.com
 ||lilishare.com
 ||lilisi.com
@@ -59834,7 +59832,6 @@
 ||wit-parking.com
 ||wit0.com
 ||wit5.com
-||witchspring.com
 ||witcp.com
 ||with366.com
 ||withae.com
@@ -64312,7 +64309,6 @@
 ||ygwenxue.com
 ||ygycwx.com
 ||ygym.org
-||yh05l.com
 ||yh300.vip
 ||yh31.com
 ||yh596.com
