@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-05-29 22:48:28.1622328508 +0000 UTC
+! Last Modified: 2021-05-30 22:50:40.1622415040 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -805,6 +805,7 @@
 ||10000tc.com
 ||10000yao.com
 ||10001wan.com
+||1000360.com
 ||10006.info
 ||1000ci.net
 ||1000eb.net
@@ -3274,7 +3275,6 @@
 ||363322014.com
 ||363u.com
 ||364000.com
-||365112233.com
 ||365128.com
 ||36543.com
 ||365500.com
@@ -16520,6 +16520,7 @@
 ||click-v.com
 ||click369.com
 ||clickclaro.xyz
+||clicksdiy.com
 ||clicksun.net
 ||clickwifi.net
 ||client51.com
@@ -17321,6 +17322,7 @@
 ||cnwa.com
 ||cnwage.com
 ||cnwaking.com
+||cnwangjie.com
 ||cnwaternews.com
 ||cnwb.net
 ||cnwdjj.com
@@ -19026,6 +19028,7 @@
 ||dangcdn.com
 ||dangdang.com
 ||danghongyun.com
+||danghuan.com
 ||dangjian.com
 ||dangjianwang.com
 ||dangpu.com
@@ -19387,7 +19390,6 @@
 ||dd4.com
 ||dd6300.fun
 ||dd66778899.com
-||dd7q.com
 ||dd8828.com
 ||ddbig.com
 ||ddbiquge.cc
@@ -22014,7 +22016,6 @@
 ||eduwest.com
 ||eduwg.com
 ||eduwo.com
-||eduwsw.com
 ||eduwx.com
 ||eduxiao.com
 ||eduyf.com
@@ -25439,7 +25440,6 @@
 ||gequ77.com
 ||gequdaquan.net
 ||geren-jianli.com
-||geren.site
 ||gerenjianli.com
 ||gerhard-china.com
 ||germany-leica.net
@@ -29151,6 +29151,7 @@
 ||hnh.cc
 ||hnhaitian.com
 ||hnhaofang.com
+||hnhllv.net
 ||hnhnled.com
 ||hnhw.org
 ||hnhxxk.com
@@ -29177,6 +29178,7 @@
 ||hnleisu.com
 ||hnliangku.com
 ||hnlungtongzs.com
+||hnlzhd.com
 ||hnlzw.net
 ||hnmdtv.com
 ||hnmgjr.com
@@ -32902,7 +32904,6 @@
 ||ivycoffee.com
 ||ivydad.com
 ||ivydom.com
-||ivynuts.com
 ||ivypub.org
 ||ivyschools.com
 ||ivysoon.com
@@ -43348,6 +43349,7 @@
 ||nfzhouyi.com
 ||nfzmbrand.com
 ||ng-alain.com
+||nga.wiki
 ||ngabbs.com
 ||ngacn.cc
 ||ngacn.com
@@ -47263,6 +47265,7 @@
 ||qiuyuewenxue.com
 ||qiuyumi.com
 ||qiuzhang.com
+||qiuzhijiangtang.com
 ||qiuziti.com
 ||qiuziyuan.net
 ||qivsod.com
@@ -49418,6 +49421,7 @@
 ||sbh15.com
 ||sbiquge.com
 ||sbk-h5.com
+||sbkh5.com
 ||sbkk8.com
 ||sbkk88.com
 ||sblunwen.com
@@ -51973,6 +51977,7 @@
 ||snjrsks.com
 ||snnd.co
 ||snobten.com
+||snodehome.com
 ||snooda.com
 ||snor-china.com
 ||snowballsecurities.com
@@ -54135,6 +54140,7 @@
 ||tapdata.net
 ||tapdb.com
 ||tapdb.net
+||tapechat.net
 ||tapenjoy.com
 ||tapimg.com
 ||tapotiexie.com
@@ -55456,7 +55462,6 @@
 ||topthink.com
 ||topthink.net
 ||toptourservice.com
-||topu.com
 ||topuc.com
 ||topwalk.com
 ||topwanwan.com
@@ -57648,6 +57653,7 @@
 ||vlightv.com
 ||vlinkage.com
 ||vlinke.com
+||vlion.mobi
 ||vlong.tv
 ||vlongbiz.com
 ||vlwoo.com
@@ -59336,7 +59342,6 @@
 ||whjclgs.com
 ||whjcly.com
 ||whjdhy.com
-||whjfyz.com
 ||whjhcz.com
 ||whjiaoy.com
 ||whjjhbj.com
@@ -60665,7 +60670,6 @@
 ||www.htcsense.com
 ||www.htcvive.com
 ||www.ibm.com
-||www.kaspersky.com
 ||www.microsoft.com
 ||www.nike.com
 ||www.pandora.net
@@ -63845,6 +63849,8 @@
 ||yaohuiji.com
 ||yaohuo.me
 ||yaojiao.tv
+||yaojibuyu.com
+||yaojidsfee.com
 ||yaojiedianzi.com
 ||yaojingtang.com
 ||yaokaihui.com
@@ -68253,7 +68259,6 @@
 ||zi.com
 ||ziben365.com
 ||ziboshishen.com
-||zibosky.com
 ||zicaitou.com
 ||zichabaogao.com
 ||zichanzhihuan.com
@@ -69698,6 +69703,7 @@
 ||full:itunes.apple.com
 ||full:itunesconnect.apple.com
 ||full:js-cdn.music.apple.com
+||full:kc.kexinshe.com
 ||full:km.support.apple.com
 ||full:maps.apple.com
 ||full:menu-static.gog-statics.com
