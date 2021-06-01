@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-05-31 23:01:56.1622502116 +0000 UTC
+! Last Modified: 2021-06-01 23:08:26.1622588906 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -367,7 +367,6 @@
 ||04168.com
 ||0416u.com
 ||0417gou.com
-||0418fc.com
 ||0421wcbzk.com
 ||0427.com
 ||0430.com
@@ -9486,6 +9485,7 @@
 ||anglo-chinese.com
 ||angroups.com
 ||angruo.com
+||angrymiao.com
 ||anguanjia.com
 ||angui.org
 ||angwei.net
@@ -52090,7 +52090,6 @@
 ||sohocute.com
 ||sohonow.com
 ||sohotask.com
-||sohovark.com
 ||sohu
 ||sohu-inc.com
 ||sohu.com
