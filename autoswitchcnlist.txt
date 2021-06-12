@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-06-11 22:29:18.1623450558 +0000 UTC
+! Last Modified: 2021-06-12 22:28:24.1623536904 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -4692,7 +4692,6 @@
 ||51zhangdan.com
 ||51zhantai.com
 ||51zhaobizhi.com
-||51zhaowei.com
 ||51zheduoduo.com
 ||51zhengxin.com
 ||51zhi.com
@@ -6091,7 +6090,6 @@
 ||6yyy7.com
 ||6zu.com
 ||7-hotel.com
-||7-inc.com
 ||7-vk.com
 ||7-wx.com
 ||700bike.com
@@ -6744,7 +6742,6 @@
 ||84ktv.com
 ||84lm.com
 ||84lm.net
-||84lp89.com
 ||84piao.com
 ||84zcb.com
 ||84zhu.com
@@ -9082,6 +9079,7 @@
 ||alibabacorp.com
 ||alibabadns.com
 ||alibabadoctor.com
+||alibabafapiao.com
 ||alibabafuturehotel.com
 ||alibabagroup.com
 ||alibabaonline.com
@@ -9323,7 +9321,6 @@
 ||alwindoor.com
 ||alxw.com
 ||alyisheng.com
-||alyxz.com
 ||alyzq.com
 ||am222566.com
 ||am5.com
@@ -10932,6 +10929,7 @@
 ||banwagong.men
 ||banwojia.com
 ||banxiayue.com
+||banxuewx.com
 ||banyou.la
 ||banyuetan.org
 ||banyuetanxcx.com
@@ -11461,7 +11459,6 @@
 ||beiwo.com
 ||beiwo.tv
 ||beiwo77.com
-||beiwotv.com
 ||beiww.com
 ||beixingmh.com
 ||beiyanmaoyi.com
@@ -11732,7 +11729,6 @@
 ||bibuzhengxing.com
 ||bichi.me
 ||bicn.vip
-||bicyc.com
 ||bid-view.com
 ||bidchance.com
 ||biddingos.com
@@ -14112,7 +14108,6 @@
 ||ccxcredit.com
 ||ccxinshiji.com
 ||ccxinshijicy.com
-||ccxinyikeji.com
 ||ccxinyuedu.com
 ||ccxiyuecare.com
 ||ccxjcg.com
@@ -14250,7 +14245,6 @@
 ||cdndm.com
 ||cdndm5.com
 ||cdndm5.net
-||cdndns8.com
 ||cdndo.com
 ||cdnet110.com
 ||cdnff.com
@@ -16599,6 +16593,8 @@
 ||cmc168.com
 ||cmcc.in
 ||cmcm.com
+||cmcm5.cc
+||cmcm5.com
 ||cmcmcdn.com
 ||cmd5.com
 ||cmd5.la
@@ -17490,7 +17486,6 @@
 ||coinnice.com
 ||coinsky.com
 ||coinvs.com
-||coinw.com
 ||cojia.net
 ||cokemine.com
 ||cokll.com
@@ -18756,9 +18751,6 @@
 ||dadajuan.com
 ||dadakan.com
 ||dadaojiayuan.com
-||dadatu.co
-||dadatu5.com
-||dadatutv.com
 ||dadayou.com
 ||dadclab.com
 ||daddymami.net
@@ -21362,6 +21354,7 @@
 ||dygod.net
 ||dygod.org
 ||dygodj8.com
+||dyhhy.cc
 ||dyhjw.com
 ||dyhr88.com
 ||dyhzj.com
@@ -22062,7 +22055,6 @@
 ||efotile.com
 ||efount.com
 ||efpp.com
-||eftoutiao.com
 ||efucms.com
 ||efueloil.com
 ||efwang.com
@@ -33479,6 +33471,7 @@
 ||jiacai001.com
 ||jiachong.net
 ||jiadingqiang.com
+||jiaduijiaoyou.com
 ||jiae.com
 ||jiafang168.com
 ||jiafenqi.com
@@ -34743,7 +34736,6 @@
 ||jpegonline.com
 ||jperation.com
 ||jpg.cm
-||jpg.dog
 ||jphot.net
 ||jpjc315.com
 ||jpjww.com
@@ -35037,7 +35029,6 @@
 ||jt996.com
 ||jtamc.com
 ||jtbole.com
-||jtfgq.com
 ||jtggame.com
 ||jtgzfw.com
 ||jthailang.com
@@ -35756,6 +35747,7 @@
 ||kangaiweishi.com
 ||kangame.tv
 ||kangbaifoundation.com
+||kangbatv.com
 ||kangbidz.com
 ||kangchun.com
 ||kangdajiuzhou.com
@@ -36205,6 +36197,7 @@
 ||kiees.com
 ||kihgwe.com
 ||kiiik.com
+||kiijoy.com
 ||kiimg.com
 ||kikicici.com
 ||kikitamap.com
@@ -37240,7 +37233,6 @@
 ||lampym.com
 ||lamyu.com
 ||lan-bridge.com
-||lan-gui.com
 ||lan-kun.com
 ||lan-lin.com
 ||lan1001.com
@@ -37898,7 +37890,6 @@
 ||lesports.com
 ||lesscss.net
 ||lessisbetter.site
-||lestu.com
 ||lesun.org
 ||letabc.com
 ||letaikeji.com
@@ -38188,7 +38179,6 @@
 ||licaike.com
 ||licaiker.com
 ||licaimofang.com
-||licairen.net
 ||licat.com
 ||lichangtai.com
 ||lichangtao.com
@@ -41031,7 +41021,6 @@
 ||mgpyh.com
 ||mgsdk.com
 ||mgslb.com
-||mgtv.cloud
 ||mgtv.com
 ||mgtvzy2.com
 ||mgw999.com
@@ -41577,7 +41566,6 @@
 ||mljixie.com
 ||mljr.com
 ||mljtn.com
-||mljznj.com
 ||mlkmba.com
 ||mlkxs.com
 ||mlkxshop.com
@@ -42355,7 +42343,6 @@
 ||mxguan.com
 ||mxhaitao.com
 ||mxhichina.com
-||mxiaoer.com
 ||mxingkong.net
 ||mxipp.tech
 ||mxjinchao.com
@@ -43204,7 +43191,6 @@
 ||newtonghua.com
 ||newtop100.com
 ||newtouch-elec.com
-||newtrekwang.me
 ||newtrip.com
 ||newume.com
 ||newvfx.com
@@ -43286,7 +43272,6 @@
 ||ni8.com
 ||nian.so
 ||nianbin.com
-||niancode.com
 ||nianhuiba.com
 ||nianw.com
 ||nianzhi.cc
@@ -44447,6 +44432,7 @@
 ||opticsjournal.net
 ||opticsx.org
 ||optimix.asia
+||optimized-ai.com
 ||optinetchina.com
 ||optjcjj.com
 ||optol.net
@@ -44999,7 +44985,6 @@
 ||paysapi.com
 ||paytbf.com
 ||paytend.com
-||payun.wang
 ||payxinyi.com
 ||pb89.com
 ||pbbpp4u.com
@@ -45909,7 +45894,6 @@
 ||potplayer.pro
 ||pouchcontainer.io
 ||poukao.com
-||pouyehm.com
 ||power-bd.com
 ||power-sensor.com
 ||powerbibbs.com
@@ -46944,6 +46928,7 @@
 ||qinfukai.com
 ||qing-hei.com
 ||qing-shan.com
+||qing.su
 ||qing5.com
 ||qingbaomofang.com
 ||qingbh.com
@@ -54837,7 +54822,6 @@
 ||timepill.net
 ||timeread.com
 ||timeread.net
-||times-asia.com
 ||timesawards.com
 ||timesdf-hn.com
 ||timeso.cc
@@ -55951,7 +55935,6 @@
 ||tulaoshi.com
 ||tuliaohr.net
 ||tuling123.com
-||tulinggame.com
 ||tulingtec.com
 ||tuliren.com
 ||tuliu.com
@@ -59818,7 +59801,6 @@
 ||wndhw.com
 ||wndlkj.com
 ||wnform.com
-||wnfrbj.com
 ||wnhuifu.com
 ||wniecm.com
 ||wnkj88.com
@@ -60731,7 +60713,6 @@
 ||wzhan.net
 ||wzhealth.com
 ||wzhekou.com
-||wzhenyun.com
 ||wzhouhui.com
 ||wzhouhui.net
 ||wzhust.com
@@ -60787,7 +60768,6 @@
 ||x23us.me
 ||x23us.us
 ||x23wxw.com
-||x3153.xyz
 ||x3366.com
 ||x3china.com
 ||x3cn.com
@@ -62203,7 +62183,6 @@
 ||xinxiaoqi.com
 ||xinxic.com
 ||xinxifabu.net
-||xinxilai.net
 ||xinxinapp.net
 ||xinxindai.com
 ||xinxing.org
@@ -63725,7 +63704,6 @@
 ||yaoman.net
 ||yaomaner.com
 ||yaonano.com
-||yaoning.me
 ||yaooxx.space
 ||yaopaiming.com
 ||yaopinnet.com
@@ -64113,6 +64091,7 @@
 ||yhcmovie.com
 ||yhcqw.com
 ||yhd.com
+||yhdm.so
 ||yhdm5.com
 ||yhdm7.com
 ||yhdns.net
@@ -66085,6 +66064,7 @@
 ||yunxiao.com
 ||yunxin123.com
 ||yunxindai.com
+||yunxindns.com
 ||yunxinshi.com
 ||yunxs.com
 ||yunxuetang.com
@@ -66731,7 +66711,6 @@
 ||zdfans.com
 ||zdfans7.com
 ||zdfx.net
-||zdfzls.com
 ||zdh168.com
 ||zdh1909.com
 ||zdhaitao.com
@@ -66918,7 +66897,6 @@
 ||zghtedu.com
 ||zghtqk.com
 ||zgjcks.com
-||zgjdxx.com
 ||zgjf168.com
 ||zgjhjy.com
 ||zgjiemeng.com
@@ -66971,7 +66949,6 @@
 ||zgpzz.com
 ||zgqkk.com
 ||zgqw.com
-||zgqyb.com
 ||zgqyhzfy.com
 ||zgqywhcbw.com
 ||zgqyzxw.com
@@ -67167,6 +67144,7 @@
 ||zhangzifan.com
 ||zhangziran.com
 ||zhangzishi.net
+||zhangzs.com
 ||zhanh.com
 ||zhanhi.com
 ||zhanjindong.com
@@ -67603,7 +67581,6 @@
 ||zhixue.com
 ||zhixue.org
 ||zhixueyun.com
-||zhiyanblog.com
 ||zhiye.com
 ||zhiyeapp.com
 ||zhiyequan.com
@@ -68150,7 +68127,6 @@
 ||zijinfx.com
 ||zijing.org
 ||zijinji.com
-||zijinjubao.net
 ||zijinsuo.com
 ||zijiren.net
 ||zijizhang.com
