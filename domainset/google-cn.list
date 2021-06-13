@@ -4,6 +4,7 @@
 .full:app-measurement.com
 .full:beacons.gcp.gvt2.com
 .full:beacons.gvt2.com
+.full:beacons2.gvt2.com
 .full:beacons3.gvt2.com
 .full:c.admob.com
 .full:c.android.clients.google.com
@@ -21,12 +22,15 @@
 .full:firebase-settings.crashlytics.com
 .full:fonts.googleapis.com
 .full:fonts.gstatic.com
+.full:g1.gstatic.com
+.full:g2.gstatic.com
 .full:google-analytics.com
 .full:googleadservices.com
 .full:googleanalytics.com
 .full:googlesyndication.com
 .full:googletagmanager.com
 .full:googletagservices.com
+.full:gstaticadssl.l.google.com
 .full:gtm.oasisfeng.com
 .full:imasdk.googleapis.com
 .full:ocsp.pki.goog
