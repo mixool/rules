@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-06-14 22:30:16.1623709816 +0000 UTC
+! Last Modified: 2021-06-15 22:29:30.1623796170 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -21259,6 +21259,7 @@
 ||torproject.org
 ||torrentav.net
 ||torrenteditor.com
+||torrentkitty.tv
 ||torrentkittycn.com
 ||torrentprivacy.com
 ||torrenty.org
@@ -26452,7 +26453,6 @@
 ||www.torrentkitty.com
 ||www.torrentkitty.net
 ||www.torrentkitty.org
-||www.torrentkitty.tv
 ||www.torrentsland.com
 ||www.totalav.com
 ||www.totallynsfw.com

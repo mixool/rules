@@ -50,5 +50,6 @@
 .full:translate.googleapis.com
 .full:translation.googleapis.com
 .full:update.googleapis.com
+.full:www-google-analytics.l.google.com
 .full:www-googletagmanager.l.google.com
 .full:www.gstatic.com
