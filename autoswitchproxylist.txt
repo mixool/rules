@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-06-17 22:29:37.1623968977 +0000 UTC
+! Last Modified: 2021-06-18 22:28:45.1624055325 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -49,6 +49,7 @@
 ||00899j.com
 ||00899k.com
 ||008c99.com
+||008vic.com
 ||009858.com
 ||009900.com
 ||00999sha.com
@@ -237,7 +238,6 @@
 ||11871118.com
 ||11871121.com
 ||11871128.com
-||118760000.com
 ||119hg.com
 ||11c07.com
 ||11sebb.com
@@ -615,6 +615,7 @@
 ||228.t28.net
 ||228777.com
 ||22966.com
+||22990sha.com
 ||22gg940.com
 ||22ppk.com
 ||233.t28.net
@@ -990,7 +991,6 @@
 ||50104.evextv.com
 ||50104.janxtv.site
 ||50104.letxtv.com
-||50104.xmasxtv.com
 ||5011668.com
 ||50188.godxtv.com
 ||50219.dmixtv.site
@@ -1109,6 +1109,7 @@
 ||5595aaa.com
 ||5595app.com
 ||5595t.com
+||559805.com
 ||55bet.com
 ||55bg.com
 ||55hg.com.com
@@ -1525,6 +1526,7 @@
 ||8786.net
 ||878867.com
 ||88.serveftp.com
+||88.ssh01.com
 ||8800buyu.com
 ||88036.com
 ||8811buyu.com
@@ -1550,7 +1552,6 @@
 ||888.66xbgg.com
 ||888.baishi309.net
 ||888.com
-||888.cp0044.cc
 ||888.hnyzjc.com
 ||888.jcw333.com
 ||888.lzgye.com
@@ -1779,7 +1780,6 @@
 ||999.a88866.cc
 ||999.abccp1.com
 ||999.aohong33.com
-||999.biying3.com
 ||999.cp0044.cc
 ||999.df319.com
 ||999.dlg789.com
@@ -2579,9 +2579,7 @@
 ||amothersheart.net
 ||amp
 ||amp.dev
-||ampj110.com
 ||ampj135.com
-||ampj223.com
 ||ampj226.com
 ||ampj228.com
 ||ampj30.com
@@ -2633,6 +2631,7 @@
 ||anakinweb.com
 ||analytictech.com
 ||anandaminers.com
+||anarchistan.com
 ||anb.org
 ||anbpulsa.com
 ||anchor.fm
@@ -3086,6 +3085,7 @@
 ||armorgames.com
 ||arph.org
 ||arphic.com
+||arrowsoftruth.org
 ||art4tibet1998.org
 ||artcomix.com
 ||arte
@@ -3504,6 +3504,7 @@
 ||baabao.com
 ||baazee.com
 ||babble.com
+||babeasiantube.com
 ||babes.com
 ||baby-kingdom.com
 ||babylonbee.com
@@ -4247,6 +4248,7 @@
 ||biliworld.com
 ||bill-safe.com
 ||bill2-software.com
+||billerickson.net
 ||billmelater.com
 ||billmelater.info
 ||billmelater.net
@@ -4352,8 +4354,10 @@
 ||bjs.org
 ||bjtongyu.com
 ||bjzc.org
+||bk.cylab.org
 ||bk.tw.lvfukeji.com
 ||bk2888.com
+||bk8123.com
 ||bk8668.com
 ||bkangaroo.com
 ||bkite.com
@@ -5225,7 +5229,6 @@
 ||buyu7755.com
 ||buyu8001.com
 ||buyu8007.com
-||buyu822.com
 ||buyu861.com
 ||buyu862.com
 ||buyu867.com
@@ -6648,6 +6651,7 @@
 ||crosswalk-project.net
 ||crowdrise.com
 ||crowdtangle.com
+||crowdtilt.com
 ||crown
 ||crownka.com
 ||croxyproxy.com
@@ -7507,6 +7511,7 @@
 ||dns.arapurayil.com
 ||dns.blokada.org
 ||dns.comss.one
+||dns.containerpi.com
 ||dns.decloudus.com
 ||dns.digitale-gesellschaft.ch
 ||dns.dns-over-https.com
@@ -7649,6 +7654,7 @@
 ||doubleclick.net
 ||doubleclickbygoogle.com
 ||doublehop.me
+||doublemoney.site
 ||doubmirror.cf
 ||dougscripts.com
 ||douhokanko.net
@@ -9065,6 +9071,7 @@
 ||fcebookk.com
 ||fcfacebook.com
 ||fcity888.com
+||fczdcf.com
 ||fdacebook.info
 ||fdc64.org
 ||fe-ver.com
@@ -9083,6 +9090,7 @@
 ||fecebook.net
 ||feceboox.com
 ||fececbook.com
+||federalres.com
 ||fedex
 ||fedoraforum.org
 ||fedoramagazine.org
@@ -9593,6 +9601,7 @@
 ||francemail.com
 ||francescograniglia.it
 ||franklc.com
+||frases2012.com
 ||frcasquesbeats.com
 ||freakshare.com
 ||free-aa.com
@@ -10335,7 +10344,6 @@
 ||ggcarry.com
 ||ggcarry881.com
 ||ggcarry888.com
-||ggccup.com
 ||ggcups.com
 ||ggcxtv.site
 ||ggdada.com
@@ -10423,7 +10431,6 @@
 ||gladiabots.com
 ||gladwell.com
 ||glasamerike.net
-||glassboards.com
 ||gle
 ||glean
 ||gleeze.com
@@ -11320,6 +11327,7 @@
 ||hilton
 ||himalaya2020.com
 ||himalayan-foundation.org
+||himalayanconsensus.org
 ||himalayanglacier.com
 ||himemix.com
 ||himemix.net
@@ -11357,11 +11365,11 @@
 ||hj1655.com
 ||hj1755.com
 ||hj259.com
+||hj277.com
 ||hj2966.com
 ||hj5399.com
 ||hj5688.com
 ||hj5788.com
-||hj5799.com
 ||hj5855.com
 ||hj589.com
 ||hj5899.com
@@ -11907,6 +11915,7 @@
 ||hz8804.com
 ||hz8808.com
 ||hzbi.org
+||hzpeak.com
 ||hzsmails.org
 ||i-123-hp.com
 ||i-book.com
@@ -12468,6 +12477,7 @@
 ||interpark.com
 ||intersoft.be
 ||intgram.com
+||inthecrack.com
 ||inthenameofconfuciusmovie.com
 ||inti.be
 ||intl.fender.com
@@ -13103,6 +13113,7 @@
 ||jmp
 ||jmscult.com
 ||jmvbt.com
+||jn-70w.guzoku.net
 ||jneurosci.org
 ||jnj
 ||jo
@@ -13180,6 +13191,7 @@
 ||jsdelivr.net
 ||jsfiddle.net
 ||jshint.com
+||jsok369.com
 ||jstor.org
 ||jtbc.joins.com
 ||jtfx.mobi
@@ -13442,6 +13454,7 @@
 ||kinmen.travel
 ||kinokuniya.com
 ||kintone.cybozu.com
+||kirbybbs.com
 ||kirbysepicyarn.com
 ||kirbysuperstarultra.com
 ||kiss999.com
@@ -14195,6 +14208,7 @@
 ||lovemov.cc
 ||lovemyanime.com
 ||lovemyanime.net
+||loveofkuanyin.com
 ||lovesexdurex.com
 ||lovethiscity.com
 ||lovetibet.ti-da.net
@@ -14529,6 +14543,7 @@
 ||mailonline.com
 ||mailsevera.com
 ||mainetenants.org
+||mainhape.com
 ||mainprox.com
 ||maiplus.com
 ||mairbeats.com
@@ -14563,6 +14578,7 @@
 ||managedmeetingrooms.com
 ||manarat.com
 ||manbetx711.com
+||manbetx852.com
 ||manchukuo.net
 ||manga-town.net
 ||mangafox.com
@@ -14731,9 +14747,10 @@
 ||mbxjs920.com
 ||mc
 ||mc-prgs.weebly.com
-||mca66.com
 ||mcadforums.com
 ||mcaf.ee
+||mcat007.com
+||mcatlove.com
 ||mcclatchydc.com
 ||mccormicklit.com
 ||mcd
@@ -15486,13 +15503,16 @@
 ||mrbasic.com
 ||mrbonus.com
 ||mrc58.com
+||mrcat0.com
 ||mrcat123.com
 ||mrcat166.com
 ||mrcat168.com
+||mrcat233.com
 ||mrcat666.com
 ||mrcat68.com
 ||mrcatad.com
 ||mrcatlanding88.com
+||mrcatlove.com
 ||mrcboy.com
 ||mrface.com
 ||mrgreen.com
@@ -15504,6 +15524,7 @@
 ||mrstiff.it
 ||mrt188.com
 ||mrtc28.com
+||mrtome.com
 ||mrtweet.com
 ||ms-studiosmedia.com
 ||ms.kity.pw
@@ -18863,6 +18884,7 @@
 ||rutnerspazzacamino.ch
 ||rutor.org
 ||ruyiseek.com
+||rv55.com
 ||rw
 ||rwaitkus.com
 ||rwdxtv.com
@@ -19124,7 +19146,6 @@
 ||scriptspot.com
 ||sd
 ||sd-bbs.net
-||sd.domain888.pw
 ||sd.freepac.pw
 ||sdarabia.com
 ||sdcountybmw.com
@@ -19522,7 +19543,6 @@
 ||sijihuisuo.club
 ||sijihuisuo.com
 ||silenus.it
-||silicongallen.ch
 ||silk.co
 ||silkbook.com
 ||silkdrive.io
@@ -22157,7 +22177,6 @@
 ||v2ray.cool
 ||v2raycn.com
 ||v2raytech.com
-||v3798.com
 ||v5.connect-link.com
 ||v66612.com
 ||v6ss.xyz
@@ -23229,6 +23248,7 @@
 ||wheelworks.net
 ||whereiswerner.com
 ||wheretowatch.com
+||whichmba.com
 ||whippedass.com
 ||whisolutions.com
 ||whispers.life
@@ -23461,6 +23481,7 @@
 ||wolfatbestbuy.net
 ||wolfax.com
 ||wolfgang.site40.net
+||wolislaw.com
 ||wolterskluwer
 ||womany.net
 ||wombo.ai
@@ -24051,6 +24072,7 @@
 ||www.882111133.com
 ||www.882111177.com
 ||www.882111188.com
+||www.882117777.com
 ||www.884aa.com
 ||www.886kj.com
 ||www.886vpn.com
@@ -24297,6 +24319,7 @@
 ||www.avtb01.com
 ||www.awebproxy.com
 ||www.ayiconsulting.com
+||www.aykow.com
 ||www.ayx121.com
 ||www.azattyk.org
 ||www.azattyq.org
@@ -24307,7 +24330,6 @@
 ||www.b3651888.com
 ||www.b88vip7.com
 ||www.b9999gg.com
-||www.babeasiantube.com
 ||www.babefox.com
 ||www.baby268.com
 ||www.babydiscuss.com
@@ -24896,6 +24918,7 @@
 ||www.exacteditions.com
 ||www.exigo.com
 ||www.exocams.com
+||www.exovoid.ch
 ||www.express-vpn.com
 ||www.expressvpn.pm
 ||www.extrabux.com
@@ -25275,7 +25298,6 @@
 ||www.hinwen.com
 ||www.hippodromeonline.com
 ||www.hishadowsocks.com
-||www.hj277.com
 ||www.hj6093.com
 ||www.hj857.com
 ||www.hj8686.com
@@ -25550,7 +25572,6 @@
 ||www.jsh911.com
 ||www.jsjt-global.com
 ||www.jsok147.com
-||www.jsok369.com
 ||www.jsok789.com
 ||www.jsqgtx.net
 ||www.jsss.site
@@ -25576,7 +25597,6 @@
 ||www.kaguragames.com
 ||www.kaixin.icu
 ||www.kaka1234.net
-||www.kakaotalk.com
 ||www.kanjukumania.com
 ||www.kanxi123.com
 ||www.kaskus.com
@@ -25724,6 +25744,7 @@
 ||www.lsj1080.com
 ||www.lt113.com
 ||www.lt132.com
+||www.lt258.com
 ||www.ltou88.net
 ||www.ltou959.com
 ||www.lucasentertainment.com
@@ -25758,7 +25779,6 @@
 ||www.manhub.com
 ||www.manybo.com
 ||www.manycai.com
-||www.maodaili.com
 ||www.mapmyride.com
 ||www.mariaholic.com
 ||www.marinhomes.net
@@ -26131,7 +26151,6 @@
 ||www.ptcff666.com
 ||www.pthepiratebay.org
 ||www.ptlaohu.com
-||www.ptpt82.com
 ||www.pttweb.cc
 ||www.ptwxz.com
 ||www.publicproxyservers.com
@@ -26213,7 +26232,6 @@
 ||www.rightheart.org
 ||www.rightnowmedia.com
 ||www.ritsumei-arsvi.org
-||www.rmol.co
 ||www.rockylinux.org
 ||www.room1v.com
 ||www.rosiyy.com
@@ -26246,6 +26264,7 @@
 ||www.saira.com
 ||www.sakingdom.com
 ||www.sakuravpn.com
+||www.sal03.com
 ||www.saloncs.com
 ||www.sammyboyforum.com
 ||www.sandsmacao.com
@@ -26451,7 +26470,6 @@
 ||www.tengbo9881.com
 ||www.tenzingyatsoinstitute.org
 ||www.teoruiz.com
-||www.tesco.net
 ||www.tex-corp.com
 ||www.the-cloak.com
 ||www.the-diplomat.com
@@ -26500,6 +26518,7 @@
 ||www.timebridge.com
 ||www.tinydate.net
 ||www.tiyu118.com
+||www.tjshy.com
 ||www.tkc.im
 ||www.tkka.net
 ||www.tlc125.com
@@ -26636,6 +26655,7 @@
 ||www.uyghurvoice.com
 ||www.uzaobao.com
 ||www.v1931.com
+||www.v2aky.com
 ||www.v33a.com
 ||www.v86v.com
 ||www.vanbbs.com
@@ -26862,6 +26882,7 @@
 ||www.xpj000888.com
 ||www.xpj123123.com
 ||www.xpu44.com
+||www.xqworks.com
 ||www.xroxy.com
 ||www.xryshaygh.com
 ||www.xs9999.com
@@ -27073,7 +27094,6 @@
 ||xab001.com
 ||xab111.com
 ||xab555.com
-||xabbs.com
 ||xam00.com
 ||xam33999.com
 ||xam34999.com
@@ -27150,6 +27170,7 @@
 ||xh0016.com
 ||xh0018.com
 ||xh0778.com
+||xh1666.com
 ||xh3555.com
 ||xh4111.com
 ||xh4999.com
@@ -27275,6 +27296,7 @@
 ||xlstudio.com
 ||xm.com
 ||xmaduras.com
+||xmasxtv.com
 ||xmatch.com
 ||xmbs1.xyz
 ||xmbs2.xyz
@@ -27455,7 +27477,6 @@
 ||xxx.com
 ||xxx.xxx
 ||xxx516.net
-||xxxchinaporn.com
 ||xxxdessert.com
 ||xxxfk.com
 ||xxxfuckmom.com
@@ -27616,6 +27637,7 @@
 ||ybha.ldld5.me
 ||ybhandle.sgapi00.com
 ||ybwt88.com
+||ycn.org
 ||ycombinator.com
 ||ycw9999.com
 ||yd3689.com
