@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-06-18 22:28:45.1624055325 +0000 UTC
+! Last Modified: 2021-06-19 22:28:06.1624141686 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -7,6 +7,7 @@
 ||0-6.com
 ||0-gold.net
 ||00.net
+||00000.host
 ||00042.com
 ||0006266.com
 ||0007.net
@@ -858,6 +859,7 @@
 ||100hcrc.com
 ||100hdy.com
 ||100how.com
+||100huts.com
 ||100ip.net
 ||100jiapu.com
 ||100kk.com
@@ -1263,6 +1265,7 @@
 ||123wangsu.com
 ||123webgame.com
 ||123xun.com
+||123xyq.com
 ||123yingyu.com
 ||125.la
 ||12530.com
@@ -2519,6 +2522,7 @@
 ||23us23us.com
 ||23wow.com
 ||23wx.cc
+||23wx.io
 ||23wx.la
 ||23wxw.com
 ||23xs.cc
@@ -3781,6 +3785,9 @@
 ||4177.com
 ||418999.com
 ||418sbc.com
+||41fa6.icu
+||41fa8.icu
+||41fa9.icu
 ||41game.com
 ||41gw.com
 ||41huiyi.com
@@ -6235,6 +6242,7 @@
 ||74cms.com
 ||74hy.com
 ||74ig.com
+||74ir.com
 ||75.team
 ||75111.net
 ||75184.com
@@ -7101,6 +7109,7 @@
 ||908872.com
 ||90907.com
 ||90a.cc
+||90bola.cc
 ||90ckm.com
 ||90e.com
 ||90ko.net
@@ -7364,7 +7373,6 @@
 ||921lu.com
 ||922000.com
 ||922c25.com
-||923qp6.com
 ||925pk.com
 ||925ps.com
 ||927.la
@@ -14703,6 +14711,7 @@
 ||changjiangdata.com
 ||changjiangexpress.com
 ||changjiangtimes.com
+||changjuyi.com
 ||changker.com
 ||changkunet.com
 ||changliuliang.com
@@ -17180,6 +17189,7 @@
 ||cnrmall.com
 ||cnrmobile.com
 ||cnrouter.com
+||cnrv.io
 ||cns.hk
 ||cnsaes.org
 ||cnsal.com
@@ -17830,6 +17840,7 @@
 ||cqfuzhuang.com
 ||cqfzb.org
 ||cqgc.com
+||cqggzy.com
 ||cqgmfw.com
 ||cqgz.com
 ||cqh2o.com
@@ -19270,6 +19281,7 @@
 ||dbfen.com
 ||dbgeek.org
 ||dbh123.net
+||dbkan.com
 ||dblgf.com
 ||dblwww.com
 ||dbmailserver.com
@@ -21200,6 +21212,7 @@
 ||dushiyufu.com
 ||dushu.com
 ||dushu.io
+||dushu263.com
 ||dushu365.com
 ||dushu369.com
 ||dushudaren.com
@@ -24567,6 +24580,7 @@
 ||fuxing56.com
 ||fuxingtech.com
 ||fuxingwang.com
+||fuxunpay.com
 ||fuyangseo.com
 ||fuyangtv.com
 ||fuych.net
@@ -25968,7 +25982,6 @@
 ||gongpin.net
 ||gongpingjia.com
 ||gongshang120.com
-||gongshe8.com
 ||gongshe99.com
 ||gongshi8.com
 ||gongsibao.com
@@ -27146,7 +27159,6 @@
 ||hackpascal.net
 ||hackrf.net
 ||hackroad.com
-||hackx.org
 ||hacori.com
 ||hacpai.com
 ||haczjob.com
@@ -27648,6 +27660,7 @@
 ||haoservice.com
 ||haosf.com
 ||haosf5.com
+||haoshanpu.com
 ||haoshanxi.com
 ||haoshengla.com
 ||haoshengmall.com
@@ -28632,7 +28645,6 @@
 ||hhtravel.com
 ||hhtravel.com.tw
 ||hhvv.com
-||hhwww.net
 ||hhxdkj.com
 ||hhxin.com
 ||hhycdai.com
@@ -41921,7 +41933,6 @@
 ||mooreren.com
 ||moosee.net
 ||moowo.com
-||mop-img.com
 ||mop.com
 ||mopaas.com
 ||mopaasapp.com
@@ -42017,6 +42028,7 @@
 ||mowangblog.com
 ||mowowo.com
 ||mowuhe.com
+||mox.moe
 ||moxdao.com
 ||moxfive.xyz
 ||moxiai.com
@@ -42343,6 +42355,7 @@
 ||mxnavi.com
 ||mxnfq.com
 ||mxnxs.com
+||mxomo.com
 ||mxqe.com
 ||mxria.com
 ||mxs.com
@@ -42640,6 +42653,7 @@
 ||mywll.com
 ||mywood.cc
 ||myxhm.net
+||myyhjd.com
 ||myyishu.com
 ||myyj.net
 ||myyoudao.com
@@ -42721,6 +42735,7 @@
 ||naicha99.com
 ||naichabiao.com
 ||naichagang.com
+||naifei.pro
 ||naigirl.com
 ||naiguo360.com
 ||naikanxs.com
@@ -43298,7 +43313,6 @@
 ||niceonegame.com
 ||nicescale.com
 ||nicetuan.net
-||nicksors.cc
 ||nicky1605.com
 ||nicolaszhao.com
 ||niconiconi.cc
@@ -44373,6 +44387,7 @@
 ||openlink.cc
 ||openloong.org
 ||openloongson.org
+||openluat.com
 ||openlyenter.com
 ||openos.org
 ||openpcba.com
@@ -45089,6 +45104,7 @@
 ||pdfdo.com
 ||pdfdowell.com
 ||pdfexpert.cc
+||pdffx.com
 ||pdfjia.com
 ||pdflibr.com
 ||pdfwang.com
@@ -48981,6 +48997,7 @@
 ||rypeixun.com
 ||rysdline.com
 ||rysummer.net
+||rytad.com
 ||rytx.com
 ||ryweike.com
 ||rywsem.com
@@ -51976,6 +51993,7 @@
 ||sohu.net
 ||sohucs.com
 ||sohuhistory.com
+||sohunjug.com
 ||sohuns.com
 ||sohusce.com
 ||sohuu.com
@@ -55906,6 +55924,7 @@
 ||tujian.com
 ||tujidu.com
 ||tujie8.com
+||tujiedianying.com
 ||tujiwar.com
 ||tujixiazai.com
 ||tukaxiu.com
@@ -58060,7 +58079,6 @@
 ||wangxianyuan.com
 ||wangxiao.com
 ||wangxiao.net
-||wangxiao100.com
 ||wangxiaobao.cc
 ||wangxiaobao.com
 ||wangxingcs.com
@@ -60427,6 +60445,7 @@
 ||wuwm-aprg.org
 ||wuxiairport.com
 ||wuxiamh.com
+||wuxiangcc.com
 ||wuxiangxing.com
 ||wuxianhaibao.com
 ||wuxianlandao.com
@@ -62112,6 +62131,7 @@
 ||xinqiannv.com
 ||xinqigu.com
 ||xinqing.com
+||xinqingdou.cc
 ||xinqingdou.com
 ||xinqiyejia.com
 ||xinqiys.com
@@ -63100,6 +63120,7 @@
 ||xungou.com
 ||xunhuoyi.com
 ||xunhupay.com
+||xunihao.net
 ||xunjiecad.com
 ||xunjiepdf.com
 ||xunjieshipin.com
@@ -64514,6 +64535,7 @@
 ||yiovo.com
 ||yipaipian.com
 ||yipanhaocai.com
+||yipaogan.com
 ||yiparts.com
 ||yipemail.com
 ||yipianxing.com
@@ -64640,6 +64662,7 @@
 ||yixiin.com
 ||yixin.com
 ||yixin.im
+||yixin5.com
 ||yixincao.com
 ||yixinfinance.com
 ||yixinfund.com
@@ -64677,6 +64700,7 @@
 ||yiyimh.com
 ||yiyingt.com
 ||yiyisoft.com
+||yiyitech.com
 ||yiyituzi.com
 ||yiyiwang.net
 ||yiyiwawa.com
@@ -64827,6 +64851,7 @@
 ||ylxbxgtg.com
 ||ylxdtww.com
 ||ylxk.net
+||ylxw.net
 ||ylyk.com
 ||ylzms.com
 ||ym-trans.com
