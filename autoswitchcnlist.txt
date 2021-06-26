@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-06-25 22:25:40.1624659940 +0000 UTC
+! Last Modified: 2021-06-26 22:25:14.1624746314 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -69317,6 +69317,7 @@
 ||full:bag.itunes.apple.com
 ||full:beacons.gcp.gvt2.com
 ||full:beacons.gvt2.com
+||full:beacons2.gvt2.com
 ||full:beacons3.gvt2.com
 ||full:bg.v4.a.dl.ws.microsoft.com
 ||full:bg4.v4.a.dl.ws.microsoft.com
@@ -69391,6 +69392,8 @@
 ||full:fonts.googleapis.com
 ||full:fonts.gstatic.com
 ||full:fs.microsoft.com
+||full:g1.gstatic.com
+||full:g2.gstatic.com
 ||full:geetest.datasink.sensorsdata.cn
 ||full:gog.qtlglb.com
 ||full:gogalaxy.gog-statics.com
@@ -69551,6 +69554,7 @@
 ||full:tools.google.com
 ||full:tools.l.google.com
 ||full:translate.googleapis.com
+||full:translation.googleapis.com
 ||full:update.googleapis.com
 ||full:updates-http.cdn-apple.com
 ||full:updates-http.cdn-apple.com.akadns.net
@@ -69564,6 +69568,7 @@
 ||full:wow.nosdn.127.net
 ||full:wscont1.apps.microsoft.com
 ||full:wscont2.apps.microsoft.com
+||full:www-google-analytics.l.google.com
 ||full:www-googletagmanager.l.google.com
 ||full:www.apple.com
 ||full:www.apple.com.edgekey.net
