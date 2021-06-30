@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-06-29 22:25:39.1625005539 +0000 UTC
+! Last Modified: 2021-06-30 22:25:39.1625091939 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -1320,7 +1320,6 @@
 ||12sporting.com
 ||12tiku.com
 ||12yao.com
-||12yc.cc
 ||12ym.com
 ||12ystar.com
 ||12zw.com
@@ -3259,6 +3258,7 @@
 ||364000.com
 ||365128.com
 ||3652886.com
+||3653115.com
 ||36543.com
 ||365500.com
 ||365708.com
@@ -3443,7 +3443,6 @@
 ||38238r.com
 ||3837.cc
 ||3839.com
-||383940.com
 ||3839app.com
 ||3839app.net
 ||3839img.com
@@ -5652,6 +5651,7 @@
 ||5yun.org
 ||5zai.com
 ||5zg.com
+||5zhibo.com
 ||5zzu.com
 ||6-china.com
 ||6.gy
@@ -5748,7 +5748,6 @@
 ||63243.com
 ||6328.net
 ||632news.com
-||63346.com
 ||6383.com
 ||639311.com
 ||6399868.com
@@ -6123,7 +6122,6 @@
 ||7190.cc
 ||719000.com
 ||7192.com
-||71ab.com
 ||71acg.com
 ||71acg.net
 ||71baomu.com
@@ -6527,6 +6525,7 @@
 ||7yzone.com
 ||7zgame.com
 ||7zhan.com
+||7zhibo.com
 ||7zhou.com
 ||7zm.com
 ||7zzy.com
@@ -6750,7 +6749,6 @@
 ||861522.com
 ||86175.com
 ||861817.com
-||86188.com
 ||86215.com
 ||86262.com
 ||8633.com
@@ -13265,6 +13263,7 @@
 ||byteeffecttos.com
 ||bytefcdn.com
 ||bytegecko.com
+||bytegoofy.com
 ||bytegslb.com
 ||byteimg.com
 ||byteisland.com
@@ -14969,7 +14968,6 @@
 ||chenruixuan.com
 ||chensonglin.net
 ||chenty.com
-||chenwentan.com
 ||chenxi-sh.com
 ||chenxinghb.com
 ||chenxitxt.net
@@ -17976,6 +17974,7 @@
 ||crmgz.com
 ||crmip.com
 ||crmrj.net
+||crmvscrm.com
 ||crnds.com
 ||crnews.net
 ||crodigy.com
@@ -19313,6 +19312,7 @@
 ||ddmogo.com
 ||ddnddn.com
 ||ddnode.com
+||ddns-only.xyz
 ||ddns.tokyo
 ||ddnsto.com
 ||ddong.com
@@ -19456,7 +19456,6 @@
 ||delixi-electric.com
 ||dell027.com
 ||dellemc-solution.com
-||dellwh.com
 ||delunyk.com
 ||demage.com
 ||demaxiya.com
@@ -23073,7 +23072,6 @@
 ||fangniaowang.net
 ||fangqk.com
 ||fangshanzi.com
-||fangshuigongcheng.net
 ||fangshuitan888.com
 ||fangsi.net
 ||fangstar.com
@@ -23907,6 +23905,7 @@
 ||fktong.com
 ||fkw.com
 ||fkw100.com
+||fkxs.net
 ||fkxxyz.com
 ||fkyuer.com
 ||fkyun.com
@@ -25591,7 +25590,6 @@
 ||gjw.com
 ||gjw123.com
 ||gjxh.org
-||gjyoulun.com
 ||gjyys.com
 ||gjzy.com
 ||gk-net.com
@@ -26757,7 +26755,6 @@
 ||gxxmyjs.com
 ||gxycwy.com
 ||gxylxtc.com
-||gxzhiwei.com
 ||gxzjy.com
 ||gxzmrl.com
 ||gxzpw.org
@@ -28963,7 +28960,6 @@
 ||hnbaiyun.com
 ||hnbits.com
 ||hnbljy.com
-||hnboxu.com
 ||hnbwsd.com
 ||hnccpit.org
 ||hnchuncheng.com
@@ -32126,7 +32122,6 @@
 ||ioeyjsb.com
 ||ioffershow.com
 ||ioffice100.com
-||ioguma.com
 ||ioio.in
 ||ioio.pw
 ||ioiox.com
@@ -33014,7 +33009,6 @@
 ||javascriptcn.com
 ||javashuo.com
 ||javatang.com
-||javaweb.io
 ||javaweb.shop
 ||javawind.net
 ||javaxxz.com
@@ -33565,6 +33559,7 @@
 ||jianwang360.com
 ||jianweitv.com
 ||jianwi.com
+||jianxin-tech.com
 ||jianxun.io
 ||jianyi.net
 ||jianyu360.com
@@ -33587,6 +33582,7 @@
 ||jianzhu2008.com
 ||jiao4.com
 ||jiaoben.net
+||jiaobuser.com
 ||jiaodafu.net
 ||jiaodian.pub
 ||jiaodong.net
@@ -33647,6 +33643,7 @@
 ||jiayongluyou.com
 ||jiayouhaoche.com
 ||jiayouxueba.com
+||jiayouzhibo.com
 ||jiayu0x.com
 ||jiayuan-law.com
 ||jiayuan.com
@@ -33873,7 +33870,6 @@
 ||jinghaishop.com
 ||jinghangapps.com
 ||jinghua.com
-||jinghuasoft.com
 ||jinghujiaoyu.com
 ||jingjia.org
 ||jingjiamicro.com
@@ -35838,6 +35834,7 @@
 ||kcjzsc.com
 ||kcloudidc.com
 ||kcrcb.com
+||kcshop.pro
 ||kcwiki.org
 ||kcyuri.com
 ||kcyxjy.com
@@ -37142,7 +37139,6 @@
 ||lan-kun.com
 ||lan-lin.com
 ||lan1001.com
-||lanbowanyouting.com
 ||lanbozb.com
 ||lanbu.net
 ||lancdn.com
@@ -41114,7 +41110,6 @@
 ||migelab.com
 ||migroom.com
 ||migucloud.com
-||migudy.com
 ||migufun.com
 ||migutv.com
 ||miguvideo.com
@@ -42064,6 +42059,7 @@
 ||mszsx.com
 ||mszxyh.com
 ||mt-bbs.com
+||mt-spirit.com
 ||mt-wire.com
 ||mt30.com
 ||mt521.com
@@ -42234,6 +42230,7 @@
 ||mxguan.com
 ||mxhaitao.com
 ||mxhichina.com
+||mxifund.com
 ||mxingkong.net
 ||mxipp.tech
 ||mxjinchao.com
@@ -42273,6 +42270,7 @@
 ||my089.com
 ||my120.org
 ||my1616.net
+||my1688.shop
 ||my285.com
 ||my2852.com
 ||my2space.com
@@ -43987,7 +43985,6 @@
 ||oicqzone.com
 ||oicto.com
 ||oidchina.org
-||oiegg.com
 ||oigps.com
 ||oilchem.net
 ||oilepay.com
@@ -44038,6 +44035,7 @@
 ||okinfo.org
 ||okjike.com
 ||okjingying.com
+||okjk.co
 ||okjoys.com
 ||okjsycj.com
 ||okkkk.com
@@ -47047,7 +47045,6 @@
 ||qixinqiguan.com
 ||qixiwl.com
 ||qixoo.com
-||qixunka.com
 ||qiyabi.vip
 ||qiye.la
 ||qiye.net
@@ -49147,6 +49144,7 @@
 ||sass.hk
 ||sasschina.com
 ||sasscss.com
+||sasseur.com
 ||satrip.com
 ||saturdaysoft.com
 ||saturnbird.com
@@ -49294,7 +49292,6 @@
 ||scjtaq.com
 ||scjyzb.net
 ||scjzjyjc.com
-||scjzlyxxpt.com
 ||sclezhu.com
 ||sclf.org
 ||sclinktech.com
@@ -50706,6 +50703,7 @@
 ||shphouse.com
 ||shphschool.com
 ||shppa.net
+||shpuyuxxkj.com
 ||shqcplw.com
 ||shqi7.net
 ||shqingzao.com
@@ -51126,7 +51124,6 @@
 ||silversand.net
 ||sim.djicdn.com
 ||simapple.com
-||simayi.org
 ||simba.pro
 ||simcf.cc
 ||simcom.com
@@ -52220,7 +52217,6 @@
 ||sptcc.com
 ||sptccn.com
 ||spthome.com
-||sptl.ltd
 ||sptxm.com
 ||spway.net
 ||spyouxi.com
@@ -52284,7 +52280,6 @@
 ||ss-ceo.com
 ||ss0.me
 ||ss6.co
-||ss6456.com
 ||ss8899888.com
 ||ssart.net
 ||ssaxx.com
@@ -53812,7 +53807,6 @@
 ||taokezhushou.com
 ||taoku.com
 ||taokzu.com
-||taole1.com
 ||taolusm.com
 ||taolutv.com
 ||taolx.com
@@ -53923,6 +53917,7 @@
 ||tbh5.com
 ||tbhcc.com
 ||tbhelper.com
+||tbhjgc.com
 ||tbkf.net
 ||tbl-import.com
 ||tblk.me
@@ -54160,7 +54155,6 @@
 ||tencentwm.com
 ||tencentyun.com
 ||tenchii.com
-||tenchong.com
 ||tendacn.com
 ||tendawifi.com
 ||tendcode.com
@@ -54353,6 +54347,7 @@
 ||thenew123.com
 ||theonemusic.net
 ||theorychina.org
+||thepaintstore.net
 ||thepast.cc
 ||thestack.net
 ||thethirdmedia.com
@@ -55063,7 +55058,6 @@
 ||tongtech.com
 ||tongtianta.site
 ||tongtongli.com
-||tongtongxue.com
 ||tongtool.com
 ||tongwang.net
 ||tongxiang.net
@@ -56622,7 +56616,6 @@
 ||upimgku.com
 ||upin.com
 ||upkao.com
-||upktv.com
 ||uplinux.com
 ||upliu.net
 ||uplookedu.com
@@ -57428,7 +57421,6 @@
 ||voltmemo.com
 ||voltsky.com
 ||volumes.cc
-||voluptuacity.com
 ||von-sh.com
 ||vona.xin
 ||vonets.com
@@ -60416,7 +60408,6 @@
 ||wx16999.com
 ||wx42.com
 ||wx6.org
-||wx84.com
 ||wx8s.com
 ||wx939.com
 ||wxagame.com
@@ -66479,7 +66470,6 @@
 ||zc0317.com
 ||zc181.com
 ||zc532.com
-||zc600.com
 ||zcaijing.com
 ||zcbjs.com
 ||zcccc.com
@@ -66829,7 +66819,6 @@
 ||zgwhfe.com
 ||zgwhw.com
 ||zgwlmusic.com
-||zgwqgks.com
 ||zgwrx.com
 ||zgwt.co
 ||zgwxbbs.com
@@ -67813,6 +67802,7 @@
 ||zhuna.net
 ||zhunc.vip
 ||zhundao.net
+||zhundaoyun.com
 ||zhuniu.com
 ||zhunniao.com
 ||zhuo.com
