@@ -32,16 +32,15 @@
 .full:googletagservices.com
 .full:gstaticadssl.l.google.com
 .full:gtm.oasisfeng.com
+.full:gvt1.com
 .full:imasdk.googleapis.com
 .full:ocsp.pki.goog
 .full:pagead-googlehosted.l.google.com
 .full:pki-goog.l.google.com
 .full:recaptcha.net
-.full:redirector.gvt1.com
 .full:regioninfo-pa.googleapis.com
 .full:safebrowsing-cache.google.com
 .full:safebrowsing.googleapis.com
-.full:settings.crashlytics.com
 .full:ssl-google-analytics.l.google.com
 .full:ssl.gstatic.com
 .full:toolbarqueries.google.com
